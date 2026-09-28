@@ -1,0 +1,13 @@
+{
+  "site_principal": "https://tvgarden.world/tv/br",
+  "pais": "Brasil",
+  "codigo_pais": "br",
+  "fonte_de_dados_atual": "https://iptv-org.github.io/iptv/countries/br.m3u",
+  "criterios": {
+    "somente_https": true,
+    "testar_stream_individualmente": true,
+    "remover_streams_falhos": true,
+    "deduplicar": true
+  },
+  "atualizacao": "A cada 6 horas via GitHub Actions"
+}
