@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-09-29T05:03:24.195805+00:00",
+  "atualizado_em_utc": "2026-09-29T12:26:54.686002+00:00",
   "total_encontrados": 387,
   "total_https": 298,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 81,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -531,18 +531,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
-      "nome": "SBT Interior (720p)",
-      "tvg-name": "SBT Interior (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    },
-    {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -565,6 +553,18 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -615,6 +615,12 @@
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
     },
     {
+      "nome": "TV Petropolis (720p)",
+      "tvg-name": "TV Petropolis (720p)",
+      "categoria": "General",
+      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+    },
+    {
       "nome": "TV Sao Raimundo (268p)",
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
@@ -643,6 +649,12 @@
       "tvg-name": "TVLatinaSat (720p)",
       "categoria": "General",
       "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
+    },
+    {
+      "nome": "TVNBN (720p)",
+      "tvg-name": "TVNBN (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     },
     {
       "nome": "Avatar: A lenda de Aang",
@@ -1311,6 +1323,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
     {
+      "nome": "TV Cidade Verde Cuiaba",
+      "tvg-name": "TV Cidade Verde Cuiaba",
+      "categoria": "Undefined",
+      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
+    },
+    {
       "nome": "TV Clube (720p)",
       "tvg-name": "TV Clube (720p)",
       "categoria": "Undefined",
@@ -1321,12 +1339,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
