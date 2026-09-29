@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-09-29T12:26:54.686002+00:00",
+  "atualizado_em_utc": "2026-09-29T22:03:08.011803+00:00",
   "total_encontrados": 387,
   "total_https": 298,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 81,
+  "total_aprovados": 220,
+  "total_removidos_por_teste": 78,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -46,6 +46,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -405,12 +406,6 @@
       "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
     },
     {
-      "nome": "Rede NGT (1080p)",
-      "tvg-name": "Rede NGT (1080p)",
-      "categoria": "Entertainment",
-      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-    },
-    {
       "nome": "TV Curuca (360p)",
       "tvg-name": "TV Curuca (360p)",
       "categoria": "Entertainment",
@@ -531,6 +526,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -589,6 +590,12 @@
       "tvg-name": "TV Futuro (1080p)",
       "categoria": "General",
       "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+    },
+    {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -1245,6 +1252,12 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
+      "nome": "1001 Noites (720p) [Not 24/7]",
+      "tvg-name": "1001 Noites (720p) [Not 24/7]",
+      "categoria": "Shop",
+      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    },
+    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1339,6 +1352,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
