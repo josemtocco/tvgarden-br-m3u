@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-09-29T22:03:08.011803+00:00",
-  "total_encontrados": 387,
+  "atualizado_em_utc": "2026-09-30T04:50:06.014966+00:00",
+  "total_encontrados": 388,
   "total_https": 298,
-  "total_aprovados": 220,
-  "total_removidos_por_teste": 78,
+  "total_aprovados": 219,
+  "total_removidos_por_teste": 79,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -46,7 +46,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -406,6 +405,12 @@
       "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
     },
     {
+      "nome": "Rede NGT (1080p)",
+      "tvg-name": "Rede NGT (1080p)",
+      "categoria": "Entertainment",
+      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+    },
+    {
       "nome": "TV Curuca (360p)",
       "tvg-name": "TV Curuca (360p)",
       "categoria": "Entertainment",
@@ -496,12 +501,6 @@
       "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
     },
     {
-      "nome": "O Dia TV",
-      "tvg-name": "O Dia TV",
-      "categoria": "General",
-      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
-    },
-    {
       "nome": "RBATV (720p)",
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
@@ -524,6 +523,12 @@
       "tvg-name": "Rede TV! Mais",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
+    },
+    {
+      "nome": "SBT Interior (720p)",
+      "tvg-name": "SBT Interior (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
       "nome": "SOU TV",
@@ -1252,12 +1257,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1286,12 +1285,6 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
