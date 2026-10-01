@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-01T05:03:06.270901+00:00",
+  "atualizado_em_utc": "2026-10-01T12:46:27.079608+00:00",
   "total_encontrados": 388,
   "total_https": 298,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -32,7 +32,6 @@
     "Education",
     "Education;General",
     "Entertainment",
-    "Entertainment;Family;General;News",
     "Entertainment;General",
     "Entertainment;News",
     "Family",
@@ -429,12 +428,6 @@
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
-      "nome": "TV Paraense (720p)",
-      "tvg-name": "TV Paraense (720p)",
-      "categoria": "Entertainment;Family;General;News",
-      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    },
-    {
       "nome": "NTV (Brazil) (720p)",
       "tvg-name": "NTV (Brazil) (720p)",
       "categoria": "Entertainment;General",
@@ -567,6 +560,12 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -591,6 +590,12 @@
       "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
     },
     {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+    },
+    {
       "nome": "TV Mais Marica (1080p)",
       "tvg-name": "TV Mais Marica (1080p)",
       "categoria": "General",
@@ -613,12 +618,6 @@
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Petropolis (720p)",
-      "tvg-name": "TV Petropolis (720p)",
-      "categoria": "General",
-      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
     },
     {
       "nome": "TV Sao Raimundo (268p)",
@@ -945,12 +944,6 @@
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
-      "nome": "BR8 TV",
-      "tvg-name": "BR8 TV",
-      "categoria": "News",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-    },
-    {
       "nome": "Canal 38 (720p)",
       "tvg-name": "Canal 38 (720p)",
       "categoria": "News",
@@ -1263,6 +1256,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1321,12 +1320,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
