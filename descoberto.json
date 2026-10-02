@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-01T22:29:44.992793+00:00",
-  "total_encontrados": 388,
+  "atualizado_em_utc": "2026-10-02T04:52:47.332806+00:00",
+  "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 212,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 211,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -198,12 +198,6 @@
       "tvg-name": "TVE RS (1080p)",
       "categoria": "Culture;Education",
       "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    },
-    {
-      "nome": "Unisul TV (720p)",
-      "tvg-name": "Unisul TV (720p)",
-      "categoria": "Culture;Education",
-      "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     },
     {
       "nome": "TV UFOP (1080p)",
@@ -560,6 +554,12 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -642,6 +642,12 @@
       "tvg-name": "TVLatinaSat (720p)",
       "categoria": "General",
       "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
+    },
+    {
+      "nome": "TVNBN (720p)",
+      "tvg-name": "TVNBN (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     },
     {
       "nome": "Avatar: A lenda de Aang",
@@ -1238,10 +1244,10 @@
       "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
     },
     {
-      "nome": "Amazon Sat (1080p)",
-      "tvg-name": "Amazon Sat (1080p)",
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
       "categoria": "Undefined",
-      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
@@ -1274,22 +1280,10 @@
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
     },
     {
-      "nome": "SIC TV (720p)",
-      "tvg-name": "SIC TV (720p)",
-      "categoria": "Undefined",
-      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
-    },
-    {
       "nome": "TV A Critica",
       "tvg-name": "TV A Critica",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
-    },
-    {
-      "nome": "TV Cidade Verde Cuiaba",
-      "tvg-name": "TV Cidade Verde Cuiaba",
-      "categoria": "Undefined",
-      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
     },
     {
       "nome": "TV Clube (720p)",
