@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-02T04:52:47.332806+00:00",
+  "atualizado_em_utc": "2026-10-02T12:10:24.101335+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 211,
-  "total_removidos_por_teste": 87,
+  "total_aprovados": 201,
+  "total_removidos_por_teste": 97,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -26,7 +26,6 @@
     "Culture",
     "Culture;Education",
     "Culture;Education;Public",
-    "Culture;News",
     "Documentary",
     "Documentary;Series",
     "Education",
@@ -204,12 +203,6 @@
       "tvg-name": "TV UFOP (1080p)",
       "categoria": "Culture;Education;Public",
       "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
-    },
-    {
-      "nome": "STZ TV (1080p)",
-      "tvg-name": "STZ TV (1080p)",
-      "categoria": "Culture;News",
-      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
     },
     {
       "nome": "Detetives Medicos",
@@ -488,12 +481,6 @@
       "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
     },
     {
-      "nome": "RBATV (720p)",
-      "tvg-name": "RBATV (720p)",
-      "categoria": "General",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-    },
-    {
       "nome": "Rede Brasil (1080p)",
       "tvg-name": "Rede Brasil (1080p)",
       "categoria": "General",
@@ -510,12 +497,6 @@
       "tvg-name": "Rede TV! Mais",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
-    },
-    {
-      "nome": "SBT Interior (720p)",
-      "tvg-name": "SBT Interior (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
       "nome": "SOU TV",
@@ -642,12 +623,6 @@
       "tvg-name": "TVLatinaSat (720p)",
       "categoria": "General",
       "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
-    },
-    {
-      "nome": "TVNBN (720p)",
-      "tvg-name": "TVNBN (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     },
     {
       "nome": "Avatar: A lenda de Aang",
@@ -926,12 +901,6 @@
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
     },
     {
-      "nome": "Aratu On",
-      "tvg-name": "Aratu On",
-      "categoria": "News",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
-    },
-    {
       "nome": "BM&C News (720p)",
       "tvg-name": "BM&C News (720p)",
       "categoria": "News",
@@ -954,12 +923,6 @@
       "tvg-name": "J3NEWS TV",
       "categoria": "News",
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
-    },
-    {
-      "nome": "Plena TV (720p)",
-      "tvg-name": "Plena TV (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
     },
     {
       "nome": "Pluto TV Record News (720p)",
@@ -996,12 +959,6 @@
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sim Sao Mateus (720p)",
-      "tvg-name": "TV Sim Sao Mateus (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1056,12 +1013,6 @@
       "tvg-name": "Plenitude TV",
       "categoria": "Religious",
       "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
-    },
-    {
-      "nome": "Rede Gospel (1080p)",
-      "tvg-name": "Rede Gospel (1080p)",
-      "categoria": "Religious",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
       "nome": "RIT TV (1080p)",
@@ -1244,12 +1195,6 @@
       "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1278,12 +1223,6 @@
       "tvg-name": "RedeTV! Parana",
       "categoria": "Undefined",
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
-    },
-    {
-      "nome": "TV A Critica",
-      "tvg-name": "TV A Critica",
-      "categoria": "Undefined",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
     {
       "nome": "TV Clube (720p)",
