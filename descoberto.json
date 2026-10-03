@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-02T21:59:16.640088+00:00",
+  "atualizado_em_utc": "2026-10-03T04:35:32.741632+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 210,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -194,6 +194,12 @@
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
       "nome": "Unisul TV (720p)",
       "tvg-name": "Unisul TV (720p)",
       "categoria": "Culture;Education",
@@ -324,6 +330,12 @@
       "tvg-name": "Conecta Mais TV (720p)",
       "categoria": "Entertainment",
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
+    },
+    {
+      "nome": "ElyTV (360p)",
+      "tvg-name": "ElyTV (360p)",
+      "categoria": "Entertainment",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
     },
     {
       "nome": "Loading (720p)",
@@ -492,6 +504,12 @@
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+    },
+    {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "Rede SPTV (360p)",
@@ -878,6 +896,12 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -1046,6 +1070,12 @@
       "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
+      "nome": "Rede Gospel (1080p)",
+      "tvg-name": "Rede Gospel (1080p)",
+      "categoria": "Religious",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+    },
+    {
       "nome": "RIT TV (1080p)",
       "tvg-name": "RIT TV (1080p)",
       "categoria": "Religious",
@@ -1056,12 +1086,6 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-    },
-    {
-      "nome": "TV Padre Cicero (720p)",
-      "tvg-name": "TV Padre Cicero (720p)",
-      "categoria": "Religious",
-      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
     },
     {
       "nome": "TV Terceiro Anjo (360p)",
