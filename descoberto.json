@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-03T11:20:31.348517+00:00",
+  "atualizado_em_utc": "2026-10-03T15:58:31.416510+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 212,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -192,12 +192,6 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    },
-    {
-      "nome": "TVE RS (1080p)",
-      "tvg-name": "TVE RS (1080p)",
-      "categoria": "Culture;Education",
-      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
