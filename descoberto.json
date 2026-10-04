@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-04T12:02:53.987691+00:00",
+  "atualizado_em_utc": "2026-10-04T21:03:47.061558+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -46,6 +46,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -573,6 +574,12 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -619,12 +626,6 @@
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Petropolis (720p)",
-      "tvg-name": "TV Petropolis (720p)",
-      "categoria": "General",
-      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
     },
     {
       "nome": "TV Sao Raimundo (268p)",
@@ -897,6 +898,12 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -943,6 +950,12 @@
       "tvg-name": "BM&C News (720p)",
       "categoria": "News",
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+    },
+    {
+      "nome": "BR8 TV",
+      "tvg-name": "BR8 TV",
+      "categoria": "News",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
     },
     {
       "nome": "Canal 38 (720p)",
@@ -997,6 +1010,12 @@
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sim Cachoeiro (720p)",
+      "tvg-name": "TV Sim Cachoeiro (720p)",
+      "categoria": "News",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
       "nome": "TV Sim Sao Mateus (720p)",
@@ -1221,6 +1240,12 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
+      "nome": "1001 Noites (720p) [Not 24/7]",
+      "tvg-name": "1001 Noites (720p) [Not 24/7]",
+      "categoria": "Shop",
+      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    },
+    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1309,12 +1334,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
