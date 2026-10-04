@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-03T20:48:11.595036+00:00",
+  "atualizado_em_utc": "2026-10-04T05:06:05.021657+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -32,6 +32,7 @@
     "Education",
     "Education;General",
     "Entertainment",
+    "Entertainment;Family;General;News",
     "Entertainment;General",
     "Entertainment;News",
     "Family",
@@ -428,6 +429,12 @@
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
+      "nome": "TV Paraense (720p)",
+      "tvg-name": "TV Paraense (720p)",
+      "categoria": "Entertainment;Family;General;News",
+      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    },
+    {
       "nome": "NTV (Brazil) (720p)",
       "tvg-name": "NTV (Brazil) (720p)",
       "categoria": "Entertainment;General",
@@ -564,6 +571,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1314,12 +1327,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
