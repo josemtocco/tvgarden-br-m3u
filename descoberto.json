@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-04T05:06:05.021657+00:00",
+  "atualizado_em_utc": "2026-10-04T12:02:53.987691+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 213,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -573,12 +573,6 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -903,12 +897,6 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    },
-    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -1009,12 +997,6 @@
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sim Cachoeiro (720p)",
-      "tvg-name": "TV Sim Cachoeiro (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
       "nome": "TV Sim Sao Mateus (720p)",
@@ -1327,6 +1309,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
