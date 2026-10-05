@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-05T14:04:41.613644+00:00",
+  "atualizado_em_utc": "2026-10-05T23:53:38.472325+00:00",
   "total_encontrados": 390,
   "total_https": 298,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 126,
+  "total_removidos_por_teste": 172,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -13,33 +13,24 @@
   ],
   "categorias": [
     "Animation",
-    "Animation;Comedy",
     "Animation;Kids",
     "Animation;Kids;Religious",
-    "Auto;Documentary",
-    "Classic",
     "Classic;Series",
     "Comedy",
-    "Comedy;Series",
-    "Cooking",
-    "Cooking;Lifestyle",
     "Culture",
     "Culture;Education",
     "Culture;Education;Public",
     "Culture;News",
     "Documentary",
-    "Documentary;Series",
     "Education",
     "Education;General",
     "Entertainment",
     "Entertainment;Family;General;News",
     "Entertainment;General",
     "Entertainment;News",
-    "Family",
     "General",
     "Kids",
     "Legislative",
-    "Lifestyle",
     "Movies",
     "Music",
     "News",
@@ -63,52 +54,10 @@
       "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
     },
     {
-      "nome": "Pluto TV Anime Acao",
-      "tvg-name": "Pluto TV Anime Acao",
-      "categoria": "Animation",
-      "url": "https://jmp2.uk/plu-604b79c558393100078faeef.m3u8"
-    },
-    {
       "nome": "Pluto TV Anime BR",
       "tvg-name": "Pluto TV Anime BR",
       "categoria": "Animation",
       "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
-    },
-    {
-      "nome": "Tokusato",
-      "tvg-name": "Tokusato",
-      "categoria": "Animation",
-      "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
-    },
-    {
-      "nome": "Comedy Central South Park",
-      "tvg-name": "Comedy Central South Park",
-      "categoria": "Animation;Comedy",
-      "url": "https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8"
-    },
-    {
-      "nome": "South Park: Colecao Cartman",
-      "tvg-name": "South Park: Colecao Cartman",
-      "categoria": "Animation;Comedy",
-      "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8"
-    },
-    {
-      "nome": "South Park: Colecao Kenny",
-      "tvg-name": "South Park: Colecao Kenny",
-      "categoria": "Animation;Comedy",
-      "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8"
-    },
-    {
-      "nome": "South Park: Colecao Kyle",
-      "tvg-name": "South Park: Colecao Kyle",
-      "categoria": "Animation;Comedy",
-      "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8"
-    },
-    {
-      "nome": "South Park: Colecao Stan",
-      "tvg-name": "South Park: Colecao Stan",
-      "categoria": "Animation;Comedy",
-      "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
     },
     {
       "nome": "NickToons Brasil (480p)",
@@ -123,64 +72,16 @@
       "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
     },
     {
-      "nome": "Pluto TV Turbo",
-      "tvg-name": "Pluto TV Turbo",
-      "categoria": "Auto;Documentary",
-      "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
-    },
-    {
-      "nome": "MacGyver (United States)",
-      "tvg-name": "MacGyver (United States)",
-      "categoria": "Classic",
-      "url": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
-    },
-    {
-      "nome": "Pluto TV Desenhos Classicos",
-      "tvg-name": "Pluto TV Desenhos Classicos",
-      "categoria": "Classic",
-      "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
-    },
-    {
       "nome": "AWTV (1080p) [Geo-blocked]",
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
       "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
     },
     {
-      "nome": "Comedy Central Pluto TV BR",
-      "tvg-name": "Comedy Central Pluto TV BR",
-      "categoria": "Comedy",
-      "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8"
-    },
-    {
-      "nome": "FailArmy Brazil",
-      "tvg-name": "FailArmy Brazil",
-      "categoria": "Comedy",
-      "url": "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8"
-    },
-    {
       "nome": "Fora Tedio TV (720p)",
       "tvg-name": "Fora Tedio TV (720p)",
       "categoria": "Comedy",
       "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Comedia",
-      "tvg-name": "Pluto TV Series Comedia",
-      "categoria": "Comedy;Series",
-      "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
-    },
-    {
-      "nome": "Tastemade Brasil (720p)",
-      "tvg-name": "Tastemade Brasil (720p)",
-      "categoria": "Cooking",
-      "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
-    },
-    {
-      "nome": "Pluto TV KFOOD",
-      "tvg-name": "Pluto TV KFOOD",
-      "categoria": "Cooking;Lifestyle",
-      "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
     },
     {
       "nome": "TV Life America (720p)",
@@ -219,88 +120,16 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
     },
     {
-      "nome": "Detetives Medicos",
-      "tvg-name": "Detetives Medicos",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
-    },
-    {
-      "nome": "Pluto TV Animais",
-      "tvg-name": "Pluto TV Animais",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
-    },
-    {
-      "nome": "Pluto TV Investigacao",
-      "tvg-name": "Pluto TV Investigacao",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8"
-    },
-    {
-      "nome": "Pluto TV Negocio Fechado",
-      "tvg-name": "Pluto TV Negocio Fechado",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
-    },
-    {
-      "nome": "Pluto TV Policial",
-      "tvg-name": "Pluto TV Policial",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
-    },
-    {
       "nome": "Smithsonian Channel Pluto TV",
       "tvg-name": "Smithsonian Channel Pluto TV",
       "categoria": "Documentary",
       "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
     },
     {
-      "nome": "Pluto TV Aliens",
-      "tvg-name": "Pluto TV Aliens",
-      "categoria": "Documentary;Series",
-      "url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
-    },
-    {
       "nome": "ISTV (Brazil) (720p) [Not 24/7]",
       "tvg-name": "ISTV (Brazil) (720p) [Not 24/7]",
       "categoria": "Education",
       "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    },
-    {
-      "nome": "O Encantador de Caes",
-      "tvg-name": "O Encantador de Caes",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
-    },
-    {
-      "nome": "Pluto TV Misterios",
-      "tvg-name": "Pluto TV Misterios",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8"
-    },
-    {
-      "nome": "Pluto TV Natureza",
-      "tvg-name": "Pluto TV Natureza",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8"
-    },
-    {
-      "nome": "Pluto TV Paisagens por Stingray (720p)",
-      "tvg-name": "Pluto TV Paisagens por Stingray (720p)",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
-    },
-    {
-      "nome": "Pluto TV Vida Real",
-      "tvg-name": "Pluto TV Vida Real",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8"
-    },
-    {
-      "nome": "Pronto-socorro: Historias De Emergencia",
-      "tvg-name": "Pronto-socorro: Historias De Emergencia",
-      "categoria": "Education",
-      "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
     },
     {
       "nome": "Rede Minas (720p)",
@@ -313,12 +142,6 @@
       "tvg-name": "Canal FDR",
       "categoria": "Education;General",
       "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
-    },
-    {
-      "nome": "BET Pluto TV BR",
-      "tvg-name": "BET Pluto TV BR",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
     },
     {
       "nome": "Chroma TV (480p)",
@@ -351,28 +174,10 @@
       "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
     },
     {
-      "nome": "MTV Drag",
-      "tvg-name": "MTV Drag",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8"
-    },
-    {
       "nome": "MTV Jovens e Maes (720p)",
       "tvg-name": "MTV Jovens e Maes (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8"
-    },
-    {
-      "nome": "MTV Pluto TV BR",
-      "tvg-name": "MTV Pluto TV BR",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
-    },
-    {
-      "nome": "MTV Reality (United States) (720p)",
-      "tvg-name": "MTV Reality (United States) (720p)",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
       "nome": "MTV Rocks",
@@ -381,28 +186,10 @@
       "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
     },
     {
-      "nome": "MTV Shore",
-      "tvg-name": "MTV Shore",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8"
-    },
-    {
       "nome": "Petlovers TV",
       "tvg-name": "Petlovers TV",
       "categoria": "Entertainment",
       "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
-    },
-    {
-      "nome": "Pluto TV Canal UOL (720p)",
-      "tvg-name": "Pluto TV Canal UOL (720p)",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8"
-    },
-    {
-      "nome": "Pluto TV Retro",
-      "tvg-name": "Pluto TV Retro",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
     },
     {
       "nome": "Rede NGT (1080p)",
@@ -445,12 +232,6 @@
       "tvg-name": "TV Zoom (720p)",
       "categoria": "Entertainment;News",
       "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
-    },
-    {
-      "nome": "The Pet Collective Brazil (720p)",
-      "tvg-name": "The Pet Collective Brazil (720p)",
-      "categoria": "Family",
-      "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
     },
     {
       "nome": "Adesso TV (720p)",
@@ -573,12 +354,6 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -601,6 +376,12 @@
       "tvg-name": "TV Futuro (1080p)",
       "categoria": "General",
       "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+    },
+    {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -669,22 +450,10 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     },
     {
-      "nome": "Avatar: A lenda de Aang",
-      "tvg-name": "Avatar: A lenda de Aang",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8"
-    },
-    {
       "nome": "Bob Esponja Calca Quadrada (720p)",
       "tvg-name": "Bob Esponja Calca Quadrada (720p)",
       "categoria": "Kids",
       "url": "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8"
-    },
-    {
-      "nome": "Nick Jr. Club (United States) BR (720p)",
-      "tvg-name": "Nick Jr. Club (United States) BR (720p)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
     },
     {
       "nome": "Nickelodeon (Brazil) (480p)",
@@ -693,94 +462,10 @@
       "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
     },
     {
-      "nome": "Nickelodeon Classico (720p)",
-      "tvg-name": "Nickelodeon Classico (720p)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8"
-    },
-    {
-      "nome": "Nickelodeon Teen (720p)",
-      "tvg-name": "Nickelodeon Teen (720p)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8"
-    },
-    {
-      "nome": "Nickelodeon Toons (720p)",
-      "tvg-name": "Nickelodeon Toons (720p)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
-    },
-    {
-      "nome": "O Reino Infantil",
-      "tvg-name": "O Reino Infantil",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8"
-    },
-    {
-      "nome": "Oggy e as Baratas Tontas",
-      "tvg-name": "Oggy e as Baratas Tontas",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8"
-    },
-    {
-      "nome": "Pluto TV Junior",
-      "tvg-name": "Pluto TV Junior",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
-    },
-    {
-      "nome": "Pluto TV Kids",
-      "tvg-name": "Pluto TV Kids",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
-    },
-    {
-      "nome": "Pluto TV Kids Club (United States)",
-      "tvg-name": "Pluto TV Kids Club (United States)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
-    },
-    {
-      "nome": "Turma da Monica (720p)",
-      "tvg-name": "Turma da Monica (720p)",
-      "categoria": "Kids",
-      "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
-    },
-    {
-      "nome": "TV Assembleia Piaui",
-      "tvg-name": "TV Assembleia Piaui",
-      "categoria": "Legislative",
-      "url": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
-    },
-    {
       "nome": "TV Camara (Brazil) (1080p)",
       "tvg-name": "TV Camara (Brazil) (1080p)",
       "categoria": "Legislative",
       "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cozinha",
-      "tvg-name": "Pluto TV Cozinha",
-      "categoria": "Lifestyle",
-      "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
-    },
-    {
-      "nome": "Pluto TV Viagens",
-      "tvg-name": "Pluto TV Viagens",
-      "categoria": "Lifestyle",
-      "url": "https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8"
-    },
-    {
-      "nome": "Adrenalina Pura TV Brazil",
-      "tvg-name": "Adrenalina Pura TV Brazil",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8"
-    },
-    {
-      "nome": "Cine Terror BR",
-      "tvg-name": "Cine Terror BR",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8"
     },
     {
       "nome": "Classique TV (360p)",
@@ -789,118 +474,16 @@
       "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
     },
     {
-      "nome": "Filmes Suspense",
-      "tvg-name": "Filmes Suspense",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8"
-    },
-    {
       "nome": "MyTime Movie Network (Brazil) (720p)",
       "tvg-name": "MyTime Movie Network (Brazil) (720p)",
       "categoria": "Movies",
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
     },
     {
-      "nome": "Pluto TV Bang Bang",
-      "tvg-name": "Pluto TV Bang Bang",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Classicos",
-      "tvg-name": "Pluto TV Cine Classicos",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Comedia (United States) BR",
-      "tvg-name": "Pluto TV Cine Comedia (United States) BR",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Comedia Romantica",
-      "tvg-name": "Pluto TV Cine Comedia Romantica",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Crime",
-      "tvg-name": "Pluto TV Cine Crime",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Drama",
-      "tvg-name": "Pluto TV Cine Drama",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Familia",
-      "tvg-name": "Pluto TV Cine Familia",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Inspiracao",
-      "tvg-name": "Pluto TV Cine Inspiracao",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Romance",
-      "tvg-name": "Pluto TV Cine Romance",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
-    },
-    {
-      "nome": "Pluto TV Cine Sucessos",
-      "tvg-name": "Pluto TV Cine Sucessos",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8"
-    },
-    {
-      "nome": "Pluto TV Ficcao Cientifica",
-      "tvg-name": "Pluto TV Ficcao Cientifica",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8"
-    },
-    {
-      "nome": "Pluto TV Filmes Acao",
-      "tvg-name": "Pluto TV Filmes Acao",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8"
-    },
-    {
-      "nome": "Pluto TV Filmes Aventura",
-      "tvg-name": "Pluto TV Filmes Aventura",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
-    },
-    {
-      "nome": "Pluto TV Filmes de Luta",
-      "tvg-name": "Pluto TV Filmes de Luta",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8"
-    },
-    {
-      "nome": "Pluto TV Filmes Nacionais",
-      "tvg-name": "Pluto TV Filmes Nacionais",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8"
-    },
-    {
-      "nome": "Pluto TV Netmovies",
-      "tvg-name": "Pluto TV Netmovies",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
-    },
-    {
-      "nome": "Pluto TV Terror Trash",
-      "tvg-name": "Pluto TV Terror Trash",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
@@ -921,12 +504,6 @@
       "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
-      "nome": "Pluto TV Shows por Stingray (720p)",
-      "tvg-name": "Pluto TV Shows por Stingray (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
-    },
-    {
       "nome": "TikTok Radio Brasil (1080p)",
       "tvg-name": "TikTok Radio Brasil (1080p)",
       "categoria": "Music",
@@ -943,12 +520,6 @@
       "tvg-name": "Aratu On",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
-    },
-    {
-      "nome": "BM&C News (720p)",
-      "tvg-name": "BM&C News (720p)",
-      "categoria": "News",
-      "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
       "nome": "Canal 38 (720p)",
@@ -973,12 +544,6 @@
       "tvg-name": "Plena TV (720p)",
       "categoria": "News",
       "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-    },
-    {
-      "nome": "Pluto TV Record News (720p)",
-      "tvg-name": "Pluto TV Record News (720p)",
-      "categoria": "News",
-      "url": "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8"
     },
     {
       "nome": "SBT News (720p)",
@@ -1107,124 +672,16 @@
       "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
     },
     {
-      "nome": "CSI: Miami BR",
-      "tvg-name": "CSI: Miami BR",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
-    },
-    {
-      "nome": "Diff'rent Strokes Arnold",
-      "tvg-name": "Diff'rent Strokes Arnold",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
-    },
-    {
       "nome": "iCarly (United States)",
       "tvg-name": "iCarly (United States)",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
     },
     {
-      "nome": "Jornada nas Estrelas: A Nova Geracao",
-      "tvg-name": "Jornada nas Estrelas: A Nova Geracao",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
-    },
-    {
-      "nome": "Jornada nas Estrelas: Deep Space Nine",
-      "tvg-name": "Jornada nas Estrelas: Deep Space Nine",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
-    },
-    {
-      "nome": "Jornada nas Estrelas: Voyager",
-      "tvg-name": "Jornada nas Estrelas: Voyager",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
-    },
-    {
       "nome": "Kenan & Kel BR",
       "tvg-name": "Kenan & Kel BR",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-    },
-    {
-      "nome": "MasterChef",
-      "tvg-name": "MasterChef",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
-    },
-    {
-      "nome": "MTV Are you the One?",
-      "tvg-name": "MTV Are you the One?",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8"
-    },
-    {
-      "nome": "MTV Com o Ex",
-      "tvg-name": "MTV Com o Ex",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
-    },
-    {
-      "nome": "MTV Dating (United States)",
-      "tvg-name": "MTV Dating (United States)",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
-    },
-    {
-      "nome": "NCIS (United States)",
-      "tvg-name": "NCIS (United States)",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
-    },
-    {
-      "nome": "Numbers (United States)",
-      "tvg-name": "Numbers (United States)",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
-    },
-    {
-      "nome": "Pluto TV Novelas BR",
-      "tvg-name": "Pluto TV Novelas BR",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Acao",
-      "tvg-name": "Pluto TV Series Acao",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Criminais",
-      "tvg-name": "Pluto TV Series Criminais",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Drama",
-      "tvg-name": "Pluto TV Series Drama",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Novelescas",
-      "tvg-name": "Pluto TV Series Novelescas",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
-    },
-    {
-      "nome": "Pluto TV Series Sci-Fi (United States)",
-      "tvg-name": "Pluto TV Series Sci-Fi (United States)",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
-    },
-    {
-      "nome": "Star Trek",
-      "tvg-name": "Star Trek",
-      "categoria": "Series",
-      "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
     },
     {
       "nome": "TV Series (480p)",
@@ -1251,12 +708,6 @@
       "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
     },
     {
-      "nome": "Pluto TV Esportes",
-      "tvg-name": "Pluto TV Esportes",
-      "categoria": "Sports",
-      "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
-    },
-    {
       "nome": "Amazon Sat (1080p)",
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
@@ -1273,12 +724,6 @@
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
       "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
-    },
-    {
-      "nome": "Pluto TV Historia (United States)",
-      "tvg-name": "Pluto TV Historia (United States)",
-      "categoria": "Undefined",
-      "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
     },
     {
       "nome": "Rede Globo (1080p)",
@@ -1339,6 +784,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
