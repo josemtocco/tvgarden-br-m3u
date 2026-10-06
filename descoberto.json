@@ -1,10 +1,10 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-05T23:53:38.472325+00:00",
-  "total_encontrados": 390,
-  "total_https": 298,
-  "total_aprovados": 126,
+  "atualizado_em_utc": "2026-10-06T05:39:31.471976+00:00",
+  "total_encontrados": 388,
+  "total_https": 297,
+  "total_aprovados": 125,
   "total_removidos_por_teste": 172,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
@@ -13,7 +13,6 @@
   ],
   "categorias": [
     "Animation",
-    "Animation;Kids",
     "Animation;Kids;Religious",
     "Classic;Series",
     "Comedy",
@@ -58,12 +57,6 @@
       "tvg-name": "Pluto TV Anime BR",
       "categoria": "Animation",
       "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
-    },
-    {
-      "nome": "NickToons Brasil (480p)",
-      "tvg-name": "NickToons Brasil (480p)",
-      "categoria": "Animation;Kids",
-      "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
     },
     {
       "nome": "Kuriakos Kids (1080p)",
@@ -190,12 +183,6 @@
       "tvg-name": "Petlovers TV",
       "categoria": "Entertainment",
       "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
-    },
-    {
-      "nome": "Rede NGT (1080p)",
-      "tvg-name": "Rede NGT (1080p)",
-      "categoria": "Entertainment",
-      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
     },
     {
       "nome": "TV Curuca (360p)",
@@ -348,10 +335,10 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
       "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -459,7 +446,7 @@
       "nome": "Nickelodeon (Brazil) (480p)",
       "tvg-name": "Nickelodeon (Brazil) (480p)",
       "categoria": "Kids",
-      "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
+      "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8"
     },
     {
       "nome": "TV Camara (Brazil) (1080p)",
@@ -520,6 +507,12 @@
       "tvg-name": "Aratu On",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
+    },
+    {
+      "nome": "BR8 TV",
+      "tvg-name": "BR8 TV",
+      "categoria": "News",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
     },
     {
       "nome": "Canal 38 (720p)",
