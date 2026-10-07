@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-06T22:31:01.823497+00:00",
+  "atualizado_em_utc": "2026-10-07T05:10:06.885032+00:00",
   "total_encontrados": 388,
-  "total_https": 297,
-  "total_aprovados": 124,
-  "total_removidos_por_teste": 173,
+  "total_https": 298,
+  "total_aprovados": 126,
+  "total_removidos_por_teste": 172,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -243,6 +243,24 @@
       "tvg-name": "Canal UOL (1080p)",
       "categoria": "General",
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
+    },
+    {
+      "nome": "Catve FM (720p) [Not 24/7]",
+      "tvg-name": "Catve FM (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
+    },
+    {
+      "nome": "Catve Master TV (720p) [Not 24/7]",
+      "tvg-name": "Catve Master TV (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
+    },
+    {
+      "nome": "Catve2 (720p)",
+      "tvg-name": "Catve2 (720p)",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
     },
     {
       "nome": "COM Brasil (720p)",
@@ -701,12 +719,6 @@
       "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
     },
     {
-      "nome": "Amazon Sat (1080p)",
-      "tvg-name": "Amazon Sat (1080p)",
-      "categoria": "Undefined",
-      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
       "nome": "Boas Novas (1080p)",
       "tvg-name": "Boas Novas (1080p)",
       "categoria": "Undefined",
@@ -735,6 +747,12 @@
       "tvg-name": "RedeTV! Parana",
       "categoria": "Undefined",
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
+    },
+    {
+      "nome": "SBT Nacional (1080p)",
+      "tvg-name": "SBT Nacional (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
       "nome": "SIC TV (720p)",
@@ -771,12 +789,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
