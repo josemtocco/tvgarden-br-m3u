@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-07T12:57:57.230468+00:00",
+  "atualizado_em_utc": "2026-10-07T22:54:47.594501+00:00",
   "total_encontrados": 388,
   "total_https": 298,
-  "total_aprovados": 120,
-  "total_removidos_por_teste": 178,
+  "total_aprovados": 124,
+  "total_removidos_por_teste": 174,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -36,6 +36,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -287,6 +288,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -461,6 +468,12 @@
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
     },
     {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -531,18 +544,6 @@
       "tvg-name": "TCM 10 HD (1080p)",
       "categoria": "News",
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-    },
-    {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brusque (720p)",
-      "tvg-name": "TV Brusque (720p)",
-      "categoria": "News",
-      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     },
     {
       "nome": "TV Sim Cachoeiro (720p)",
@@ -665,6 +666,12 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
+      "nome": "1001 Noites (720p) [Not 24/7]",
+      "tvg-name": "1001 Noites (720p) [Not 24/7]",
+      "categoria": "Shop",
+      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+    },
+    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -687,6 +694,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
@@ -749,10 +762,22 @@
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
     },
     {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+    },
+    {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
