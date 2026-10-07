@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "atualizado_em_utc": "2026-10-07T05:10:06.885032+00:00",
-  "duracao_segundos": 25.0,
-  "canais_gerados": 126,
+  "atualizado_em_utc": "2026-10-07T12:57:57.230468+00:00",
+  "duracao_segundos": 25.83,
+  "canais_gerados": 120,
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
   "playlist": "lista.m3u"

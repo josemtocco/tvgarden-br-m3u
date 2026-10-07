@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-07T05:10:06.885032+00:00",
+  "atualizado_em_utc": "2026-10-07T12:57:57.230468+00:00",
   "total_encontrados": 388,
   "total_https": 298,
-  "total_aprovados": 126,
-  "total_removidos_por_teste": 172,
+  "total_aprovados": 120,
+  "total_removidos_por_teste": 178,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -245,24 +245,6 @@
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
     },
     {
-      "nome": "Catve FM (720p) [Not 24/7]",
-      "tvg-name": "Catve FM (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve Master TV (720p) [Not 24/7]",
-      "tvg-name": "Catve Master TV (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve2 (720p)",
-      "tvg-name": "Catve2 (720p)",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
-    },
-    {
       "nome": "COM Brasil (720p)",
       "tvg-name": "COM Brasil (720p)",
       "categoria": "General",
@@ -305,12 +287,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
-      "nome": "Rede Brasil (1080p)",
-      "tvg-name": "Rede Brasil (1080p)",
-      "categoria": "General",
-      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
-    },
-    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -345,12 +321,6 @@
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-    },
-    {
-      "nome": "TV Alianca Catarinense (720p)",
-      "tvg-name": "TV Alianca Catarinense (720p)",
-      "categoria": "General",
-      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
     },
     {
       "nome": "TV Alternativa (410p)",
@@ -489,12 +459,6 @@
       "tvg-name": "MyTime Movie Network (Brazil) (720p)",
       "categoria": "Movies",
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
-    },
-    {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
@@ -719,10 +683,10 @@
       "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
+      "nome": "Amazon Sat (1080p)",
+      "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
