@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-08T05:20:30.502458+00:00",
+  "atualizado_em_utc": "2026-10-08T13:05:44.002940+00:00",
   "total_encontrados": 390,
   "total_https": 300,
-  "total_aprovados": 122,
-  "total_removidos_por_teste": 178,
+  "total_aprovados": 125,
+  "total_removidos_por_teste": 175,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -551,6 +551,12 @@
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     },
     {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    },
+    {
       "nome": "TV Sim Cachoeiro (720p)",
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
@@ -609,6 +615,12 @@
       "tvg-name": "Gospel Movie TV (360p)",
       "categoria": "Religious",
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+    },
+    {
+      "nome": "Plenitude TV",
+      "tvg-name": "Plenitude TV",
+      "categoria": "Religious",
+      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
       "nome": "Rede Gospel (1080p)",
@@ -687,6 +699,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
