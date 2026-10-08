@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-07T22:54:47.594501+00:00",
-  "total_encontrados": 388,
-  "total_https": 298,
-  "total_aprovados": 124,
-  "total_removidos_por_teste": 174,
+  "atualizado_em_utc": "2026-10-08T05:20:30.502458+00:00",
+  "total_encontrados": 390,
+  "total_https": 300,
+  "total_aprovados": 122,
+  "total_removidos_por_teste": 178,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -36,7 +36,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -70,6 +69,12 @@
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
       "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
+      "nome": "Comedy Central Brasil (480p)",
+      "tvg-name": "Comedy Central Brasil (480p)",
+      "categoria": "Comedy",
+      "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
     },
     {
       "nome": "Fora Tedio TV (720p)",
@@ -366,10 +371,10 @@
       "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
     },
     {
-      "nome": "TV Litoral RN (720p)",
-      "tvg-name": "TV Litoral RN (720p)",
+      "nome": "TV Guarapari (720p)",
+      "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+      "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -606,12 +611,6 @@
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
     },
     {
-      "nome": "Plenitude TV",
-      "tvg-name": "Plenitude TV",
-      "categoria": "Religious",
-      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
-    },
-    {
       "nome": "Rede Gospel (1080p)",
       "tvg-name": "Rede Gospel (1080p)",
       "categoria": "Religious",
@@ -666,12 +665,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -694,12 +687,6 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
