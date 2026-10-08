@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-08T13:05:44.002940+00:00",
+  "atualizado_em_utc": "2026-10-08T23:07:03.657109+00:00",
   "total_encontrados": 390,
   "total_https": 300,
   "total_aprovados": 125,
@@ -293,12 +293,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
-      "nome": "Rede Brasil (1080p)",
-      "tvg-name": "Rede Brasil (1080p)",
-      "categoria": "General",
-      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
-    },
-    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -333,6 +327,12 @@
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
+    },
+    {
+      "nome": "TV Alianca Catarinense (720p)",
+      "tvg-name": "TV Alianca Catarinense (720p)",
+      "categoria": "General",
+      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
     },
     {
       "nome": "TV Alternativa (410p)",
@@ -375,6 +375,12 @@
       "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
+    },
+    {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -423,12 +429,6 @@
       "tvg-name": "TVCOM Maceio (480p)",
       "categoria": "General",
       "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
-    },
-    {
-      "nome": "TVitape (720p)",
-      "tvg-name": "TVitape (720p)",
-      "categoria": "General",
-      "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     },
     {
       "nome": "TVLatinaSat (720p)",
