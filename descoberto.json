@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-09T12:52:13.753148+00:00",
+  "atualizado_em_utc": "2026-10-09T22:27:03.518477+00:00",
   "total_encontrados": 394,
   "total_https": 300,
-  "total_aprovados": 121,
-  "total_removidos_por_teste": 179,
+  "total_aprovados": 126,
+  "total_removidos_por_teste": 174,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -36,7 +36,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -88,6 +87,12 @@
       "tvg-name": "TV Life America (720p)",
       "categoria": "Culture",
       "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
+    },
+    {
+      "nome": "Bem Mais TV (1080p)",
+      "tvg-name": "Bem Mais TV (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
       "nome": "TVE RS (1080p)",
@@ -294,6 +299,12 @@
       "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
     },
     {
+      "nome": "Rede SPTV (360p)",
+      "tvg-name": "Rede SPTV (360p)",
+      "categoria": "General",
+      "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
+    },
+    {
       "nome": "Rede TV! Mais",
       "tvg-name": "Rede TV! Mais",
       "categoria": "General",
@@ -396,6 +407,12 @@
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
     },
     {
+      "nome": "TV Petropolis (720p)",
+      "tvg-name": "TV Petropolis (720p)",
+      "categoria": "General",
+      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+    },
+    {
       "nome": "TV Sao Raimundo (268p)",
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
@@ -412,12 +429,6 @@
       "tvg-name": "TVCOM Maceio (480p)",
       "categoria": "General",
       "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
-    },
-    {
-      "nome": "TVitape (720p)",
-      "tvg-name": "TVitape (720p)",
-      "categoria": "General",
-      "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     },
     {
       "nome": "TVLatinaSat (720p)",
@@ -540,6 +551,18 @@
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
     },
     {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brusque (720p)",
+      "tvg-name": "TV Brusque (720p)",
+      "categoria": "News",
+      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+    },
+    {
       "nome": "TV Sim Cachoeiro (720p)",
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
@@ -550,6 +573,12 @@
       "tvg-name": "TV Sim Sao Mateus (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+    },
+    {
+      "nome": "TVideoNews (720p) [Not 24/7]",
+      "tvg-name": "TVideoNews (720p) [Not 24/7]",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
     },
     {
       "nome": "VEJA+ TV (1080p)",
@@ -618,6 +647,12 @@
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
     },
     {
+      "nome": "TV Padre Cicero (720p)",
+      "tvg-name": "TV Padre Cicero (720p)",
+      "categoria": "Religious",
+      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
+    },
+    {
       "nome": "TV Terceiro Anjo (360p)",
       "tvg-name": "TV Terceiro Anjo (360p)",
       "categoria": "Religious",
@@ -646,12 +681,6 @@
       "tvg-name": "TV Series (480p)",
       "categoria": "Series",
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    },
-    {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
     },
     {
       "nome": "FIFA+ Portuguese (720p)",
