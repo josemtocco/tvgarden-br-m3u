@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-08T23:07:03.657109+00:00",
-  "total_encontrados": 390,
+  "atualizado_em_utc": "2026-10-09T05:23:59.413773+00:00",
+  "total_encontrados": 394,
   "total_https": 300,
-  "total_aprovados": 125,
-  "total_removidos_por_teste": 175,
+  "total_aprovados": 127,
+  "total_removidos_por_teste": 173,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -293,6 +293,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -345,6 +351,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
