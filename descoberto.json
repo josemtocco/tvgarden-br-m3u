@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-10T05:08:08.872896+00:00",
+  "atualizado_em_utc": "2026-10-10T12:10:17.473989+00:00",
   "total_encontrados": 394,
   "total_https": 300,
   "total_aprovados": 122,
@@ -14,6 +14,7 @@
   "categorias": [
     "Animation",
     "Animation;Kids;Religious",
+    "Classic;Series",
     "Comedy",
     "Culture",
     "Culture;Education",
@@ -35,7 +36,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -63,6 +63,12 @@
       "tvg-name": "Kuriakos Kids (1080p)",
       "categoria": "Animation;Kids;Religious",
       "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+    },
+    {
+      "nome": "AWTV (1080p) [Geo-blocked]",
+      "tvg-name": "AWTV (1080p) [Geo-blocked]",
+      "categoria": "Classic;Series",
+      "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "Comedy Central Brasil (480p)",
@@ -143,12 +149,6 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
-      "nome": "ElyTV (360p)",
-      "tvg-name": "ElyTV (360p)",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-    },
-    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -195,12 +195,6 @@
       "tvg-name": "TV+Pet",
       "categoria": "Entertainment",
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
-    },
-    {
-      "nome": "UMA TV",
-      "tvg-name": "UMA TV",
-      "categoria": "Entertainment",
-      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "TV Paraense (720p)",
@@ -279,12 +273,6 @@
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-    },
-    {
-      "nome": "Rede Brasil (1080p)",
-      "tvg-name": "Rede Brasil (1080p)",
-      "categoria": "General",
-      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "Rede SPTV (360p)",
@@ -395,12 +383,6 @@
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
     },
     {
-      "nome": "TV Petropolis (720p)",
-      "tvg-name": "TV Petropolis (720p)",
-      "categoria": "General",
-      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
-    },
-    {
       "nome": "TV Sao Raimundo (268p)",
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
@@ -461,6 +443,12 @@
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
     },
     {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -495,6 +483,12 @@
       "tvg-name": "Aratu On",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
+    },
+    {
+      "nome": "BR8 TV",
+      "tvg-name": "BR8 TV",
+      "categoria": "News",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
     },
     {
       "nome": "Canal 38 (720p)",
@@ -665,12 +659,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -731,10 +719,22 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
+      "nome": "SIC TV (720p)",
+      "tvg-name": "SIC TV (720p)",
+      "categoria": "Undefined",
+      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+    },
+    {
       "nome": "TV A Critica",
       "tvg-name": "TV A Critica",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
+    },
+    {
+      "nome": "TV Cidade Verde Cuiaba",
+      "tvg-name": "TV Cidade Verde Cuiaba",
+      "categoria": "Undefined",
+      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
     },
     {
       "nome": "TV Clube (720p)",
