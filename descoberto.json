@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-10T12:10:17.473989+00:00",
+  "atualizado_em_utc": "2026-10-10T21:22:07.196125+00:00",
   "total_encontrados": 394,
   "total_https": 300,
-  "total_aprovados": 122,
-  "total_removidos_por_teste": 178,
+  "total_aprovados": 117,
+  "total_removidos_por_teste": 183,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -197,6 +197,12 @@
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
     },
     {
+      "nome": "UMA TV",
+      "tvg-name": "UMA TV",
+      "categoria": "Entertainment",
+      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "TV Paraense (720p)",
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
@@ -293,12 +299,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -381,12 +381,6 @@
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sao Raimundo (268p)",
-      "tvg-name": "TV Sao Raimundo (268p)",
-      "categoria": "General",
-      "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
     },
     {
       "nome": "TVC-Rio",
@@ -483,12 +477,6 @@
       "tvg-name": "Aratu On",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
-    },
-    {
-      "nome": "BR8 TV",
-      "tvg-name": "BR8 TV",
-      "categoria": "News",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
     },
     {
       "nome": "Canal 38 (720p)",
@@ -683,12 +671,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -717,12 +699,6 @@
       "tvg-name": "SBT Nacional (1080p)",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
-    },
-    {
-      "nome": "SIC TV (720p)",
-      "tvg-name": "SIC TV (720p)",
-      "categoria": "Undefined",
-      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
     },
     {
       "nome": "TV A Critica",
@@ -759,12 +735,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
