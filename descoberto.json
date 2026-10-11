@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-11T12:24:18.635573+00:00",
+  "atualizado_em_utc": "2026-10-11T21:40:40.409162+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 120,
-  "total_removidos_por_teste": 181,
+  "total_aprovados": 122,
+  "total_removidos_por_teste": 179,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -18,6 +18,7 @@
     "Comedy",
     "Culture",
     "Culture;Education",
+    "Culture;Education;Public",
     "Culture;News",
     "Documentary",
     "Education",
@@ -92,6 +93,18 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+    },
+    {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
+      "nome": "TV UFOP (1080p)",
+      "tvg-name": "TV UFOP (1080p)",
+      "categoria": "Culture;Education;Public",
+      "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
     },
     {
       "nome": "STZ TV (1080p)",
@@ -184,12 +197,6 @@
       "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
     },
     {
-      "nome": "TV+Pet",
-      "tvg-name": "TV+Pet",
-      "categoria": "Entertainment",
-      "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
-    },
-    {
       "nome": "UMA TV",
       "tvg-name": "UMA TV",
       "categoria": "Entertainment",
@@ -256,12 +263,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
-      "nome": "Fala Litoral (480p)",
-      "tvg-name": "Fala Litoral (480p)",
-      "categoria": "General",
-      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
-    },
-    {
       "nome": "O Dia TV",
       "tvg-name": "O Dia TV",
       "categoria": "General",
@@ -296,6 +297,12 @@
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -530,6 +537,12 @@
       "tvg-name": "TCM 10 HD (1080p)",
       "categoria": "News",
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    },
+    {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Brusque (720p)",
