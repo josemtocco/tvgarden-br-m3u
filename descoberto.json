@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-10T21:22:07.196125+00:00",
-  "total_encontrados": 394,
-  "total_https": 300,
-  "total_aprovados": 117,
-  "total_removidos_por_teste": 183,
+  "atualizado_em_utc": "2026-10-11T04:57:41.672091+00:00",
+  "total_encontrados": 396,
+  "total_https": 301,
+  "total_aprovados": 122,
+  "total_removidos_por_teste": 179,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -149,6 +149,12 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
+      "nome": "ElyTV (360p)",
+      "tvg-name": "ElyTV (360p)",
+      "categoria": "Entertainment",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+    },
+    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -281,6 +287,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -297,12 +309,6 @@
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    },
-    {
-      "nome": "TELE 6 (720p)",
-      "tvg-name": "TELE 6 (720p)",
-      "categoria": "General",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -381,6 +387,18 @@
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Petropolis (720p)",
+      "tvg-name": "TV Petropolis (720p)",
+      "categoria": "General",
+      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sao Raimundo (268p)",
+      "tvg-name": "TV Sao Raimundo (268p)",
+      "categoria": "General",
+      "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
     },
     {
       "nome": "TVC-Rio",
@@ -489,6 +507,12 @@
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
       "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
+    },
+    {
+      "nome": "CNN Brasil (1080p)",
+      "tvg-name": "CNN Brasil (1080p)",
+      "categoria": "News",
+      "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8"
     },
     {
       "nome": "J3NEWS TV",
@@ -699,6 +723,12 @@
       "tvg-name": "SBT Nacional (1080p)",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+    },
+    {
+      "nome": "SIC TV (720p)",
+      "tvg-name": "SIC TV (720p)",
+      "categoria": "Undefined",
+      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
     },
     {
       "nome": "TV A Critica",
