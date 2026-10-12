@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-11T21:40:40.409162+00:00",
-  "total_encontrados": 396,
-  "total_https": 301,
+  "atualizado_em_utc": "2026-10-12T05:12:04.301445+00:00",
+  "total_encontrados": 397,
+  "total_https": 302,
   "total_aprovados": 122,
-  "total_removidos_por_teste": 179,
+  "total_removidos_por_teste": 180,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -26,6 +26,7 @@
     "Entertainment",
     "Entertainment;Family;General;News",
     "Entertainment;General",
+    "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "General",
     "Kids",
@@ -215,6 +216,12 @@
       "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
+      "nome": "+MaisUm (720p)",
+      "tvg-name": "+MaisUm (720p)",
+      "categoria": "Entertainment;General;Movies;Music",
+      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+    },
+    {
       "nome": "TV Zoom (720p)",
       "tvg-name": "TV Zoom (720p)",
       "categoria": "Entertainment;News",
@@ -329,6 +336,12 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -369,12 +382,6 @@
       "tvg-name": "TV Marajoara (720p)",
       "categoria": "General",
       "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-    },
-    {
-      "nome": "TV Metropole (720p) [Not 24/7]",
-      "tvg-name": "TV Metropole (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
     },
     {
       "nome": "TV Passo Fundo (720p)",
@@ -453,12 +460,6 @@
       "tvg-name": "MyTime Movie Network (Brazil) (720p)",
       "categoria": "Movies",
       "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
-    },
-    {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
