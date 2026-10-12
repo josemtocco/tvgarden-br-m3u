@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-12T05:12:04.301445+00:00",
+  "atualizado_em_utc": "2026-10-12T14:53:34.109815+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 122,
-  "total_removidos_por_teste": 180,
+  "total_aprovados": 121,
+  "total_removidos_por_teste": 181,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -270,12 +270,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
-      "nome": "O Dia TV",
-      "tvg-name": "O Dia TV",
-      "categoria": "General",
-      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
-    },
-    {
       "nome": "RBATV (720p)",
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
@@ -312,6 +306,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -334,12 +334,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -382,6 +376,12 @@
       "tvg-name": "TV Marajoara (720p)",
       "categoria": "General",
       "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
+    },
+    {
+      "nome": "TV Metropole (720p) [Not 24/7]",
+      "tvg-name": "TV Metropole (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
     },
     {
       "nome": "TV Passo Fundo (720p)",
@@ -498,12 +498,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
     },
     {
-      "nome": "Canal 38 (720p)",
-      "tvg-name": "Canal 38 (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-    },
-    {
       "nome": "Canal Metropolitano de Noticias",
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
@@ -592,12 +586,6 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
-    },
-    {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
@@ -696,12 +684,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -762,10 +744,22 @@
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
     },
     {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+    },
+    {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
