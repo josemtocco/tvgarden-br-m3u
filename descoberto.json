@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-12T14:53:34.109815+00:00",
+  "atualizado_em_utc": "2026-10-13T00:22:10.896048+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 121,
-  "total_removidos_por_teste": 181,
+  "total_aprovados": 122,
+  "total_removidos_por_teste": 180,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -270,6 +270,12 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
+      "nome": "O Dia TV",
+      "tvg-name": "O Dia TV",
+      "categoria": "General",
+      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+    },
+    {
       "nome": "RBATV (720p)",
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
@@ -330,12 +336,6 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
-      "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -352,12 +352,6 @@
       "tvg-name": "TV Difusao (720p)",
       "categoria": "General",
       "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
-    },
-    {
-      "nome": "TV Futuro (1080p)",
-      "tvg-name": "TV Futuro (1080p)",
-      "categoria": "General",
-      "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
     },
     {
       "nome": "TV Guarapari (720p)",
@@ -496,6 +490,12 @@
       "tvg-name": "Aratu On",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
+    },
+    {
+      "nome": "Canal 38 (720p)",
+      "tvg-name": "Canal 38 (720p)",
+      "categoria": "News",
+      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
     },
     {
       "nome": "Canal Metropolitano de Noticias",
@@ -682,6 +682,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
