@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-13T13:52:08.720846+00:00",
+  "atualizado_em_utc": "2026-10-13T22:26:47.529423+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -15,7 +15,6 @@
     "Animation",
     "Animation;Comedy",
     "Animation;Kids;Religious",
-    "Auto;Documentary",
     "Classic",
     "Classic;Series",
     "Comedy",
@@ -31,7 +30,6 @@
     "Education",
     "Education;General",
     "Entertainment",
-    "Entertainment;Family;General;News",
     "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
@@ -46,7 +44,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -116,12 +113,6 @@
       "tvg-name": "Kuriakos Kids (1080p)",
       "categoria": "Animation;Kids;Religious",
       "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
-    },
-    {
-      "nome": "Pluto TV Turbo",
-      "tvg-name": "Pluto TV Turbo",
-      "categoria": "Auto;Documentary",
-      "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
     },
     {
       "nome": "MacGyver (United States)",
@@ -418,10 +409,16 @@
       "url": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8"
     },
     {
-      "nome": "TV Paraense (720p)",
-      "tvg-name": "TV Paraense (720p)",
-      "categoria": "Entertainment;Family;General;News",
-      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+      "nome": "TV+Pet",
+      "tvg-name": "TV+Pet",
+      "categoria": "Entertainment",
+      "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
+    },
+    {
+      "nome": "UMA TV",
+      "tvg-name": "UMA TV",
+      "categoria": "Entertainment",
+      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "NTV (Brazil) (720p)",
@@ -580,10 +577,22 @@
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     },
     {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+    },
+    {
       "nome": "TV Mais Marica (1080p)",
       "tvg-name": "TV Mais Marica (1080p)",
       "categoria": "General",
       "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
+    },
+    {
+      "nome": "TV Marajoara (720p)",
+      "tvg-name": "TV Marajoara (720p)",
+      "categoria": "General",
+      "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
     },
     {
       "nome": "TV Metropole (720p) [Not 24/7]",
@@ -1210,12 +1219,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1334,6 +1337,12 @@
       "tvg-name": "TV Sul Bahia (320p)",
       "categoria": "Undefined",
       "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Vila Real (720p)",
+      "tvg-name": "TV Vila Real (720p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
     }
   ]
 }
