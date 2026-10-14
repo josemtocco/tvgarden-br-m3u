@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-14T11:29:38.582744+00:00",
+  "atualizado_em_utc": "2026-10-14T16:51:46.933542+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -500,6 +500,18 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
+      "nome": "Fala Litoral (480p)",
+      "tvg-name": "Fala Litoral (480p)",
+      "categoria": "General",
+      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
+    },
+    {
+      "nome": "O Dia TV",
+      "tvg-name": "O Dia TV",
+      "categoria": "General",
+      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+    },
+    {
       "nome": "RBATV (720p)",
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
@@ -534,6 +546,12 @@
       "tvg-name": "SOU TV",
       "categoria": "General",
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -882,12 +900,6 @@
       "tvg-name": "Pluto TV Terror Trash",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
-    },
-    {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
@@ -1332,6 +1344,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
