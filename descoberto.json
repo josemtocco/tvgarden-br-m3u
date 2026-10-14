@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-13T22:26:47.529423+00:00",
+  "atualizado_em_utc": "2026-10-14T04:13:34.506906+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -15,6 +15,7 @@
     "Animation",
     "Animation;Comedy",
     "Animation;Kids;Religious",
+    "Auto;Documentary",
     "Classic",
     "Classic;Series",
     "Comedy",
@@ -113,6 +114,12 @@
       "tvg-name": "Kuriakos Kids (1080p)",
       "categoria": "Animation;Kids;Religious",
       "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+    },
+    {
+      "nome": "Pluto TV Turbo",
+      "tvg-name": "Pluto TV Turbo",
+      "categoria": "Auto;Documentary",
+      "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
     },
     {
       "nome": "MacGyver (United States)",
@@ -529,12 +536,6 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
-      "nome": "TELE 6 (720p)",
-      "tvg-name": "TELE 6 (720p)",
-      "categoria": "General",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-    },
-    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -545,12 +546,6 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-    },
-    {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
-      "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1247,12 +1242,6 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
