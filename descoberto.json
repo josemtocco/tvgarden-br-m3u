@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-14T16:51:46.933542+00:00",
+  "atualizado_em_utc": "2026-10-14T21:25:51.606810+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -32,7 +32,6 @@
     "Education;General",
     "Entertainment",
     "Entertainment;General",
-    "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
     "General",
@@ -440,12 +439,6 @@
       "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
-      "nome": "+MaisUm (720p)",
-      "tvg-name": "+MaisUm (720p)",
-      "categoria": "Entertainment;General;Movies;Music",
-      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
-    },
-    {
       "nome": "TV Zoom (720p)",
       "tvg-name": "TV Zoom (720p)",
       "categoria": "Entertainment;News",
@@ -500,12 +493,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
-      "nome": "Fala Litoral (480p)",
-      "tvg-name": "Fala Litoral (480p)",
-      "categoria": "General",
-      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
-    },
-    {
       "nome": "O Dia TV",
       "tvg-name": "O Dia TV",
       "categoria": "General",
@@ -542,12 +529,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -576,6 +557,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -900,6 +887,12 @@
       "tvg-name": "Pluto TV Terror Trash",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+    },
+    {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
