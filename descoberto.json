@@ -1,10 +1,10 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-14T04:13:34.506906+00:00",
-  "total_encontrados": 397,
-  "total_https": 302,
-  "total_aprovados": 214,
+  "atualizado_em_utc": "2026-10-14T11:29:38.582744+00:00",
+  "total_encontrados": 398,
+  "total_https": 303,
+  "total_aprovados": 215,
   "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
@@ -132,6 +132,12 @@
       "tvg-name": "Pluto TV Desenhos Classicos",
       "categoria": "Classic",
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
+    },
+    {
+      "nome": "Retro Cartoon (720p)",
+      "tvg-name": "Retro Cartoon (720p)",
+      "categoria": "Classic",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
     },
     {
       "nome": "AWTV (1080p) [Geo-blocked]",
@@ -494,12 +500,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
-      "nome": "O Dia TV",
-      "tvg-name": "O Dia TV",
-      "categoria": "General",
-      "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
-    },
-    {
       "nome": "RBATV (720p)",
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
@@ -542,10 +542,22 @@
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     },
     {
+      "nome": "TV Alianca Catarinense (720p)",
+      "tvg-name": "TV Alianca Catarinense (720p)",
+      "categoria": "General",
+      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
+    },
+    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1244,6 +1256,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1310,22 +1328,10 @@
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
     },
     {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    },
-    {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
