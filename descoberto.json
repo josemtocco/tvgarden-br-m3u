@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-15T11:06:29.141564+00:00",
+  "atualizado_em_utc": "2026-10-15T16:37:42.413489+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -14,6 +14,7 @@
   "categorias": [
     "Animation",
     "Animation;Comedy",
+    "Animation;Kids;Religious",
     "Auto;Documentary",
     "Classic",
     "Classic;Series",
@@ -107,6 +108,12 @@
       "tvg-name": "South Park: Colecao Stan",
       "categoria": "Animation;Comedy",
       "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
+    },
+    {
+      "nome": "Kuriakos Kids (1080p)",
+      "tvg-name": "Kuriakos Kids (1080p)",
+      "categoria": "Animation;Kids;Religious",
+      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
     },
     {
       "nome": "Pluto TV Turbo",
@@ -529,12 +536,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -943,12 +944,6 @@
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
-      "nome": "Canal 38 (720p)",
-      "tvg-name": "Canal 38 (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-    },
-    {
       "nome": "Canal Metropolitano de Noticias",
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
@@ -1043,12 +1038,6 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
-    },
-    {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
