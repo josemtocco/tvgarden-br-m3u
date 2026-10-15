@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-15T03:56:30.165695+00:00",
+  "atualizado_em_utc": "2026-10-15T11:06:29.141564+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 89,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -14,7 +14,6 @@
   "categorias": [
     "Animation",
     "Animation;Comedy",
-    "Animation;Kids;Religious",
     "Auto;Documentary",
     "Classic",
     "Classic;Series",
@@ -31,6 +30,7 @@
     "Education",
     "Education;General",
     "Entertainment",
+    "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
@@ -107,12 +107,6 @@
       "tvg-name": "South Park: Colecao Stan",
       "categoria": "Animation;Comedy",
       "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
-    },
-    {
-      "nome": "Kuriakos Kids (1080p)",
-      "tvg-name": "Kuriakos Kids (1080p)",
-      "categoria": "Animation;Kids;Religious",
-      "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
     },
     {
       "nome": "Pluto TV Turbo",
@@ -433,6 +427,12 @@
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
+      "nome": "NTV (Brazil) (720p)",
+      "tvg-name": "NTV (Brazil) (720p)",
+      "categoria": "Entertainment;General",
+      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
+    },
+    {
       "nome": "+MaisUm (720p)",
       "tvg-name": "+MaisUm (720p)",
       "categoria": "Entertainment;General;Movies;Music",
@@ -505,6 +505,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -551,6 +557,12 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -875,6 +887,12 @@
       "tvg-name": "Pluto TV Terror Trash",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+    },
+    {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
@@ -1313,6 +1331,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
