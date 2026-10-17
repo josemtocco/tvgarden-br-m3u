@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-16T20:43:36.153272+00:00",
+  "atualizado_em_utc": "2026-10-17T03:42:42.266690+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 205,
-  "total_removidos_por_teste": 98,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -34,6 +34,7 @@
     "Entertainment;Family;General;News",
     "Entertainment;General",
     "Entertainment;General;Movies;Music",
+    "Entertainment;News",
     "Family",
     "General",
     "Kids",
@@ -206,12 +207,6 @@
       "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
-      "nome": "Unisul TV (720p)",
-      "tvg-name": "Unisul TV (720p)",
-      "categoria": "Culture;Education",
-      "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-    },
-    {
       "nome": "TV UFOP (1080p)",
       "tvg-name": "TV UFOP (1080p)",
       "categoria": "Culture;Education;Public",
@@ -380,12 +375,6 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
-      "nome": "MTV Rocks",
-      "tvg-name": "MTV Rocks",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
-    },
-    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -452,10 +441,22 @@
       "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
     },
     {
+      "nome": "TV Zoom (720p)",
+      "tvg-name": "TV Zoom (720p)",
+      "categoria": "Entertainment;News",
+      "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
+    },
+    {
       "nome": "The Pet Collective Brazil (720p)",
       "tvg-name": "The Pet Collective Brazil (720p)",
       "categoria": "Family",
       "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
+    },
+    {
+      "nome": "Adesso TV (720p)",
+      "tvg-name": "Adesso TV (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
     },
     {
       "nome": "Araruna TV",
@@ -488,6 +489,12 @@
       "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
     },
     {
+      "nome": "EUTV (720p)",
+      "tvg-name": "EUTV (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
+    },
+    {
       "nome": "O Dia TV",
       "tvg-name": "O Dia TV",
       "categoria": "General",
@@ -510,6 +517,18 @@
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
       "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
+    },
+    {
+      "nome": "Rede TV! Mais",
+      "tvg-name": "Rede TV! Mais",
+      "categoria": "General",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
+    },
+    {
+      "nome": "SBT Interior (720p)",
+      "tvg-name": "SBT Interior (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
       "nome": "SOU TV",
@@ -546,6 +565,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -872,12 +897,6 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    },
-    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -914,10 +933,22 @@
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
     },
     {
+      "nome": "Aratu On",
+      "tvg-name": "Aratu On",
+      "categoria": "News",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
+    },
+    {
       "nome": "BM&C News (720p)",
       "tvg-name": "BM&C News (720p)",
       "categoria": "News",
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+    },
+    {
+      "nome": "Canal 38 (720p)",
+      "tvg-name": "Canal 38 (720p)",
+      "categoria": "News",
+      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
     },
     {
       "nome": "Canal Metropolitano de Noticias",
@@ -938,6 +969,12 @@
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
     },
     {
+      "nome": "Plena TV (720p)",
+      "tvg-name": "Plena TV (720p)",
+      "categoria": "News",
+      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+    },
+    {
       "nome": "Pluto TV Record News (720p)",
       "tvg-name": "Pluto TV Record News (720p)",
       "categoria": "News",
@@ -954,6 +991,12 @@
       "tvg-name": "TCM 10 HD (1080p)",
       "categoria": "News",
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    },
+    {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Brusque (720p)",
@@ -1026,6 +1069,12 @@
       "tvg-name": "Plenitude TV",
       "categoria": "Religious",
       "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
+    },
+    {
+      "nome": "Rede Gospel (1080p)",
+      "tvg-name": "Rede Gospel (1080p)",
+      "categoria": "Religious",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
       "nome": "RIT TV (1080p)",
@@ -1208,6 +1257,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1238,10 +1293,22 @@
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
     },
     {
+      "nome": "SBT Nacional (1080p)",
+      "tvg-name": "SBT Nacional (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+    },
+    {
       "nome": "SIC TV (720p)",
       "tvg-name": "SIC TV (720p)",
       "categoria": "Undefined",
       "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+    },
+    {
+      "nome": "TV A Critica",
+      "tvg-name": "TV A Critica",
+      "categoria": "Undefined",
+      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
     {
       "nome": "TV Cidade Verde Cuiaba",
@@ -1266,12 +1333,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
