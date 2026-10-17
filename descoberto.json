@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-17T03:42:42.266690+00:00",
+  "atualizado_em_utc": "2026-10-17T10:22:43.485867+00:00",
   "total_encontrados": 398,
   "total_https": 303,
   "total_aprovados": 215,
@@ -205,6 +205,12 @@
       "tvg-name": "TVE RS (1080p)",
       "categoria": "Culture;Education",
       "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
+      "nome": "Unisul TV (720p)",
+      "tvg-name": "Unisul TV (720p)",
+      "categoria": "Culture;Education",
+      "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     },
     {
       "nome": "TV UFOP (1080p)",
@@ -531,12 +537,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -565,12 +565,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -895,6 +889,12 @@
       "tvg-name": "Pluto TV Terror Trash",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+    },
+    {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
