@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-17T15:15:48.831432+00:00",
+  "atualizado_em_utc": "2026-10-17T20:20:50.362655+00:00",
   "total_encontrados": 398,
   "total_https": 303,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 213,
+  "total_removidos_por_teste": 90,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -46,7 +46,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -328,12 +327,6 @@
       "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
     },
     {
-      "nome": "Blitstv",
-      "tvg-name": "Blitstv",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
-    },
-    {
       "nome": "Chroma TV (480p)",
       "tvg-name": "Chroma TV (480p)",
       "categoria": "Entertainment",
@@ -386,6 +379,12 @@
       "tvg-name": "MTV Reality (United States) (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+    },
+    {
+      "nome": "MTV Rocks",
+      "tvg-name": "MTV Rocks",
+      "categoria": "Entertainment",
+      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
     },
     {
       "nome": "MTV Shore",
@@ -566,12 +565,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1234,12 +1227,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (720p) [Not 24/7]",
-      "tvg-name": "1001 Noites (720p) [Not 24/7]",
-      "categoria": "Shop",
-      "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1262,12 +1249,6 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
@@ -1340,12 +1321,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
