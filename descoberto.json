@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-17T20:20:50.362655+00:00",
-  "total_encontrados": 398,
-  "total_https": 303,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 90,
+  "atualizado_em_utc": "2026-10-18T03:48:50.055060+00:00",
+  "total_encontrados": 397,
+  "total_https": 302,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -507,6 +507,12 @@
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
+      "nome": "Fala Litoral (480p)",
+      "tvg-name": "Fala Litoral (480p)",
+      "categoria": "General",
+      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
+    },
+    {
       "nome": "O Dia TV",
       "tvg-name": "O Dia TV",
       "categoria": "General",
@@ -543,6 +549,12 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -565,6 +577,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -909,12 +927,6 @@
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
     },
     {
-      "nome": "MTV Classic BR (720p)",
-      "tvg-name": "MTV Classic BR (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
       "nome": "Pluto TV Shows por Stingray (720p)",
       "tvg-name": "Pluto TV Shows por Stingray (720p)",
       "categoria": "Music",
@@ -991,6 +1003,12 @@
       "tvg-name": "TCM 10 HD (1080p)",
       "categoria": "News",
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    },
+    {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Brusque (720p)",
@@ -1249,6 +1267,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
