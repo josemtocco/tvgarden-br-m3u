@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-18T15:37:26.255101+00:00",
+  "atualizado_em_utc": "2026-10-18T20:20:45.476843+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 89,
+  "total_aprovados": 208,
+  "total_removidos_por_teste": 94,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -201,12 +201,6 @@
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
-      "nome": "TVE RS (1080p)",
-      "tvg-name": "TVE RS (1080p)",
-      "categoria": "Culture;Education",
-      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-    },
-    {
       "nome": "Unisul TV (720p)",
       "tvg-name": "Unisul TV (720p)",
       "categoria": "Culture;Education",
@@ -381,12 +375,6 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
-      "nome": "MTV Rocks",
-      "tvg-name": "MTV Rocks",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
-    },
-    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -517,12 +505,6 @@
       "tvg-name": "RBATV (720p)",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-    },
-    {
-      "nome": "Rede Brasil (1080p)",
-      "tvg-name": "Rede Brasil (1080p)",
-      "categoria": "General",
-      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "Rede SPTV (360p)",
@@ -715,6 +697,12 @@
       "tvg-name": "Oggy e as Baratas Tontas",
       "categoria": "Kids",
       "url": "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8"
+    },
+    {
+      "nome": "Pluto TV Junior",
+      "tvg-name": "Pluto TV Junior",
+      "categoria": "Kids",
+      "url": "https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8"
     },
     {
       "nome": "Pluto TV Kids",
@@ -987,12 +975,6 @@
       "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
-      "nome": "TV Brusque (720p)",
-      "tvg-name": "TV Brusque (720p)",
-      "categoria": "News",
-      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-    },
-    {
       "nome": "TV Sim Cachoeiro (720p)",
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
@@ -1035,12 +1017,6 @@
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
     },
     {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
-    },
-    {
       "nome": "Gospel Cartoon (360p)",
       "tvg-name": "Gospel Cartoon (360p)",
       "categoria": "Religious",
@@ -1075,12 +1051,6 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-    },
-    {
-      "nome": "TV Padre Cicero (720p)",
-      "tvg-name": "TV Padre Cicero (720p)",
-      "categoria": "Religious",
-      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
     },
     {
       "nome": "TV Terceiro Anjo (360p)",
