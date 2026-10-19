@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-19T03:58:11.227049+00:00",
+  "atualizado_em_utc": "2026-10-19T12:38:44.897771+00:00",
   "total_encontrados": 397,
   "total_https": 302,
-  "total_aprovados": 208,
-  "total_removidos_por_teste": 94,
+  "total_aprovados": 209,
+  "total_removidos_por_teste": 93,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -33,6 +33,7 @@
     "Entertainment",
     "Entertainment;Family;General;News",
     "Entertainment;General",
+    "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
     "General",
@@ -446,6 +447,12 @@
       "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
+      "nome": "+MaisUm (720p)",
+      "tvg-name": "+MaisUm (720p)",
+      "categoria": "Entertainment;General;Movies;Music",
+      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+    },
+    {
       "nome": "TV Zoom (720p)",
       "tvg-name": "TV Zoom (720p)",
       "categoria": "Entertainment;News",
@@ -530,10 +537,22 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+      "nome": "SBT Interior (720p)",
+      "tvg-name": "SBT Interior (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
       "nome": "SOU TV",
       "tvg-name": "SOU TV",
       "categoria": "General",
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -552,12 +571,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -582,12 +595,6 @@
       "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
-    },
-    {
-      "nome": "TV Litoral RN (720p)",
-      "tvg-name": "TV Litoral RN (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -624,6 +631,12 @@
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
+    },
+    {
+      "nome": "TVC-Rio",
+      "tvg-name": "TVC-Rio",
+      "categoria": "General",
+      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
     },
     {
       "nome": "TVCOM Maceio (480p)",
@@ -986,12 +999,6 @@
       "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
-      "nome": "TV Sim Cachoeiro (720p)",
-      "tvg-name": "TV Sim Cachoeiro (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    },
-    {
       "nome": "TVideoNews (720p) [Not 24/7]",
       "tvg-name": "TVideoNews (720p) [Not 24/7]",
       "categoria": "News",
@@ -1056,12 +1063,6 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-    },
-    {
-      "nome": "TV Terceiro Anjo (360p)",
-      "tvg-name": "TV Terceiro Anjo (360p)",
-      "categoria": "Religious",
-      "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
     },
     {
       "nome": "TV Universal (480p)",
@@ -1212,6 +1213,12 @@
       "tvg-name": "Pluto TV Esportes",
       "categoria": "Sports",
       "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8"
+    },
+    {
+      "nome": "Amazon Sat (1080p)",
+      "tvg-name": "Amazon Sat (1080p)",
+      "categoria": "Undefined",
+      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
       "nome": "Boas Novas (1080p)",
