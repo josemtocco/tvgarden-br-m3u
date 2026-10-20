@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-20T04:11:01.120739+00:00",
+  "atualizado_em_utc": "2026-10-20T11:11:09.958418+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 211,
-  "total_removidos_por_teste": 90,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -429,12 +429,6 @@
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
     },
     {
-      "nome": "UMA TV",
-      "tvg-name": "UMA TV",
-      "categoria": "Entertainment",
-      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
-    },
-    {
       "nome": "TV Paraense (720p)",
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
@@ -571,6 +565,12 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -909,6 +909,12 @@
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
     },
     {
+      "nome": "MTV Classic BR (720p)",
+      "tvg-name": "MTV Classic BR (720p)",
+      "categoria": "Music",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
+    },
+    {
       "nome": "Pluto TV Shows por Stingray (720p)",
       "tvg-name": "Pluto TV Shows por Stingray (720p)",
       "categoria": "Music",
@@ -943,6 +949,12 @@
       "tvg-name": "Canal 38 (720p)",
       "categoria": "News",
       "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+    },
+    {
+      "nome": "Canal Metropolitano de Noticias",
+      "tvg-name": "Canal Metropolitano de Noticias",
+      "categoria": "News",
+      "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
     },
     {
       "nome": "CNN Brasil (1080p)",
@@ -1231,6 +1243,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
