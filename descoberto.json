@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-19T22:09:15.538798+00:00",
-  "total_encontrados": 397,
-  "total_https": 302,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 89,
+  "atualizado_em_utc": "2026-10-20T04:11:01.120739+00:00",
+  "total_encontrados": 396,
+  "total_https": 301,
+  "total_aprovados": 211,
+  "total_removidos_por_teste": 90,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -549,6 +549,12 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -903,12 +909,6 @@
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
     },
     {
-      "nome": "MTV Classic BR (720p)",
-      "tvg-name": "MTV Classic BR (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
       "nome": "Pluto TV Shows por Stingray (720p)",
       "tvg-name": "Pluto TV Shows por Stingray (720p)",
       "categoria": "Music",
@@ -943,12 +943,6 @@
       "tvg-name": "Canal 38 (720p)",
       "categoria": "News",
       "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-    },
-    {
-      "nome": "Canal Metropolitano de Noticias",
-      "tvg-name": "Canal Metropolitano de Noticias",
-      "categoria": "News",
-      "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
     },
     {
       "nome": "CNN Brasil (1080p)",
@@ -1075,6 +1069,12 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+    },
+    {
+      "nome": "TV Padre Cicero (720p)",
+      "tvg-name": "TV Padre Cicero (720p)",
+      "categoria": "Religious",
+      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
     },
     {
       "nome": "TV Terceiro Anjo (360p)",
@@ -1221,12 +1221,6 @@
       "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
     },
     {
-      "nome": "ge Fast (1080p)",
-      "tvg-name": "ge Fast (1080p)",
-      "categoria": "Sports",
-      "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
-    },
-    {
       "nome": "Pluto TV Esportes",
       "tvg-name": "Pluto TV Esportes",
       "categoria": "Sports",
@@ -1315,12 +1309,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
