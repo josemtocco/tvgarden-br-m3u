@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-20T11:11:09.958418+00:00",
+  "atualizado_em_utc": "2026-10-20T16:35:53.567846+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 87,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -381,12 +381,6 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
-      "nome": "MTV Rocks",
-      "tvg-name": "MTV Rocks",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
-    },
-    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -427,6 +421,12 @@
       "tvg-name": "TV+Pet",
       "categoria": "Entertainment",
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
+    },
+    {
+      "nome": "UMA TV",
+      "tvg-name": "UMA TV",
+      "categoria": "Entertainment",
+      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
       "nome": "TV Paraense (720p)",
@@ -565,6 +565,12 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV Brasil Oeste (720p)",
@@ -907,12 +913,6 @@
       "tvg-name": "MTV Biggest Pop BR (1080p)",
       "categoria": "Music",
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
-    },
-    {
-      "nome": "MTV Classic BR (720p)",
-      "tvg-name": "MTV Classic BR (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "nome": "Pluto TV Shows por Stingray (720p)",
@@ -1327,6 +1327,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
