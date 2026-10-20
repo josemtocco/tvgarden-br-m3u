@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-20T16:35:53.567846+00:00",
+  "atualizado_em_utc": "2026-10-20T21:24:53.187820+00:00",
   "total_encontrados": 396,
   "total_https": 301,
   "total_aprovados": 215,
@@ -29,7 +29,6 @@
     "Documentary",
     "Documentary;Series",
     "Education",
-    "Education;General",
     "Entertainment",
     "Entertainment;Family;General;News",
     "Entertainment;General",
@@ -315,12 +314,6 @@
       "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
     },
     {
-      "nome": "Canal FDR",
-      "tvg-name": "Canal FDR",
-      "categoria": "Education;General",
-      "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
-    },
-    {
       "nome": "BET Pluto TV BR",
       "tvg-name": "BET Pluto TV BR",
       "categoria": "Entertainment",
@@ -337,12 +330,6 @@
       "tvg-name": "Conecta Mais TV (720p)",
       "categoria": "Entertainment",
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
-    },
-    {
-      "nome": "ElyTV (360p)",
-      "tvg-name": "ElyTV (360p)",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
     },
     {
       "nome": "Loading (720p)",
@@ -379,6 +366,12 @@
       "tvg-name": "MTV Reality (United States) (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+    },
+    {
+      "nome": "MTV Rocks",
+      "tvg-name": "MTV Rocks",
+      "categoria": "Entertainment",
+      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
     },
     {
       "nome": "MTV Shore",
@@ -567,12 +560,6 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
-      "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
       "nome": "TV Brasil Oeste (720p)",
       "tvg-name": "TV Brasil Oeste (720p)",
       "categoria": "General",
@@ -601,6 +588,12 @@
       "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
+    },
+    {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -913,6 +906,12 @@
       "tvg-name": "MTV Biggest Pop BR (1080p)",
       "categoria": "Music",
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+    },
+    {
+      "nome": "MTV Classic BR (720p)",
+      "tvg-name": "MTV Classic BR (720p)",
+      "categoria": "Music",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "nome": "Pluto TV Shows por Stingray (720p)",
