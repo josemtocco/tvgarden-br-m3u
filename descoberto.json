@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-20T21:24:53.187820+00:00",
+  "atualizado_em_utc": "2026-10-21T03:59:12.970145+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 209,
+  "total_removidos_por_teste": 92,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -29,6 +29,7 @@
     "Documentary",
     "Documentary;Series",
     "Education",
+    "Education;General",
     "Entertainment",
     "Entertainment;Family;General;News",
     "Entertainment;General",
@@ -314,6 +315,12 @@
       "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
     },
     {
+      "nome": "Canal FDR",
+      "tvg-name": "Canal FDR",
+      "categoria": "Education;General",
+      "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
+    },
+    {
       "nome": "BET Pluto TV BR",
       "tvg-name": "BET Pluto TV BR",
       "categoria": "Entertainment",
@@ -330,6 +337,12 @@
       "tvg-name": "Conecta Mais TV (720p)",
       "categoria": "Entertainment",
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
+    },
+    {
+      "nome": "ElyTV (360p)",
+      "tvg-name": "ElyTV (360p)",
+      "categoria": "Entertainment",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
     },
     {
       "nome": "Loading (720p)",
@@ -366,12 +379,6 @@
       "tvg-name": "MTV Reality (United States) (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
-    },
-    {
-      "nome": "MTV Rocks",
-      "tvg-name": "MTV Rocks",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
     },
     {
       "nome": "MTV Shore",
@@ -416,12 +423,6 @@
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
     },
     {
-      "nome": "UMA TV",
-      "tvg-name": "UMA TV",
-      "categoria": "Entertainment",
-      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
-    },
-    {
       "nome": "TV Paraense (720p)",
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
@@ -456,12 +457,6 @@
       "tvg-name": "Adesso TV (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
-    },
-    {
-      "nome": "Araruna TV",
-      "tvg-name": "Araruna TV",
-      "categoria": "General",
-      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
     },
     {
       "nome": "Canal UOL (1080p)",
@@ -560,18 +555,6 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
-      "nome": "TV BRICS Portuguese (1080p)",
-      "tvg-name": "TV BRICS Portuguese (1080p)",
-      "categoria": "General",
-      "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
-    },
-    {
       "nome": "TV Comunitaria (360p)",
       "tvg-name": "TV Comunitaria (360p)",
       "categoria": "General",
@@ -630,12 +613,6 @@
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
-    },
-    {
-      "nome": "TVC-Rio",
-      "tvg-name": "TVC-Rio",
-      "categoria": "General",
-      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
     },
     {
       "nome": "TVCOM Maceio (480p)",
@@ -728,8 +705,8 @@
       "url": "https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8"
     },
     {
-      "nome": "Pluto TV Kids Club (United States)",
-      "tvg-name": "Pluto TV Kids Club (United States)",
+      "nome": "Pluto TV Kids Club",
+      "tvg-name": "Pluto TV Kids Club",
       "categoria": "Kids",
       "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
     },
@@ -1208,8 +1185,8 @@
       "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
     },
     {
-      "nome": "Pluto TV Series Sci-Fi (United States)",
-      "tvg-name": "Pluto TV Series Sci-Fi (United States)",
+      "nome": "Pluto TV Series Sci-Fi",
+      "tvg-name": "Pluto TV Series Sci-Fi",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
     },
@@ -1298,12 +1275,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
     {
-      "nome": "TV Cidade Verde Cuiaba",
-      "tvg-name": "TV Cidade Verde Cuiaba",
-      "categoria": "Undefined",
-      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
-    },
-    {
       "nome": "TV Clube (720p)",
       "tvg-name": "TV Clube (720p)",
       "categoria": "Undefined",
@@ -1326,12 +1297,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
