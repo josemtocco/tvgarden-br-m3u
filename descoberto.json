@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-21T16:53:57.583945+00:00",
+  "atualizado_em_utc": "2026-10-21T21:25:46.072170+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -199,6 +199,12 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+    },
+    {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -619,12 +625,6 @@
       "tvg-name": "TV Marajoara (720p)",
       "categoria": "General",
       "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-    },
-    {
-      "nome": "TV Metropole (720p) [Not 24/7]",
-      "tvg-name": "TV Metropole (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
     },
     {
       "nome": "TV Passo Fundo (720p)",
@@ -1333,12 +1333,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
