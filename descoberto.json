@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-21T03:59:12.970145+00:00",
+  "atualizado_em_utc": "2026-10-21T11:26:24.359312+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 209,
-  "total_removidos_por_teste": 92,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -381,6 +381,12 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
+      "nome": "MTV Rocks",
+      "tvg-name": "MTV Rocks",
+      "categoria": "Entertainment",
+      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
+    },
+    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -423,6 +429,12 @@
       "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
     },
     {
+      "nome": "UMA TV",
+      "tvg-name": "UMA TV",
+      "categoria": "Entertainment",
+      "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "TV Paraense (720p)",
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
@@ -457,6 +469,12 @@
       "tvg-name": "Adesso TV (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
+    },
+    {
+      "nome": "Araruna TV",
+      "tvg-name": "Araruna TV",
+      "categoria": "General",
+      "url": "https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8"
     },
     {
       "nome": "Canal UOL (1080p)",
@@ -555,6 +573,18 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV BRICS Portuguese (1080p)",
+      "tvg-name": "TV BRICS Portuguese (1080p)",
+      "categoria": "General",
+      "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
+    },
+    {
       "nome": "TV Comunitaria (360p)",
       "tvg-name": "TV Comunitaria (360p)",
       "categoria": "General",
@@ -613,6 +643,12 @@
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
+    },
+    {
+      "nome": "TVC-Rio",
+      "tvg-name": "TVC-Rio",
+      "categoria": "General",
+      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
     },
     {
       "nome": "TVCOM Maceio (480p)",
@@ -867,12 +903,6 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    },
-    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -967,6 +997,12 @@
       "tvg-name": "TCM 10 HD (1080p)",
       "categoria": "News",
       "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+    },
+    {
+      "nome": "Times Brasil (720p)",
+      "tvg-name": "Times Brasil (720p)",
+      "categoria": "News",
+      "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
       "nome": "TV A Folha (720p)",
@@ -1275,6 +1311,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
     {
+      "nome": "TV Cidade Verde Cuiaba",
+      "tvg-name": "TV Cidade Verde Cuiaba",
+      "categoria": "Undefined",
+      "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
+    },
+    {
       "nome": "TV Clube (720p)",
       "tvg-name": "TV Clube (720p)",
       "categoria": "Undefined",
@@ -1285,12 +1327,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
