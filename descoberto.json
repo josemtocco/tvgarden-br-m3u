@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-22T03:59:31.942984+00:00",
+  "atualizado_em_utc": "2026-10-22T11:26:51.208457+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -339,12 +339,6 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
-      "nome": "ElyTV (360p)",
-      "tvg-name": "ElyTV (360p)",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-    },
-    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -561,6 +555,12 @@
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
+      "nome": "TV Aldeia (720p)",
+      "tvg-name": "TV Aldeia (720p)",
+      "categoria": "General",
+      "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
+    },
+    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
@@ -571,12 +571,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -621,10 +615,22 @@
       "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
     },
     {
+      "nome": "TV Metropole (720p) [Not 24/7]",
+      "tvg-name": "TV Metropole (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
+    },
+    {
       "nome": "TV Passo Fundo (720p)",
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Petropolis (720p)",
+      "tvg-name": "TV Petropolis (720p)",
+      "categoria": "General",
+      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
     },
     {
       "nome": "TV Sao Raimundo (268p)",
@@ -1011,12 +1017,6 @@
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     },
     {
-      "nome": "TV Sim Cachoeiro (720p)",
-      "tvg-name": "TV Sim Cachoeiro (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    },
-    {
       "nome": "TVideoNews (720p) [Not 24/7]",
       "tvg-name": "TVideoNews (720p) [Not 24/7]",
       "categoria": "News",
@@ -1251,6 +1251,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1315,6 +1321,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
