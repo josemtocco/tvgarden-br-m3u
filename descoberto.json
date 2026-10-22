@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-22T16:53:48.661107+00:00",
+  "atualizado_em_utc": "2026-10-22T21:21:02.793310+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -201,6 +201,12 @@
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
       "nome": "Unisul TV (720p)",
       "tvg-name": "Unisul TV (720p)",
       "categoria": "Culture;Education",
@@ -223,12 +229,6 @@
       "tvg-name": "Detetives Medicos",
       "categoria": "Documentary",
       "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
-    },
-    {
-      "nome": "Pluto TV Animais",
-      "tvg-name": "Pluto TV Animais",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
     },
     {
       "nome": "Pluto TV Investigacao",
@@ -573,12 +573,6 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -865,12 +859,6 @@
       "tvg-name": "Pluto TV Filmes Acao",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8"
-    },
-    {
-      "nome": "Pluto TV Filmes Aventura",
-      "tvg-name": "Pluto TV Filmes Aventura",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
     },
     {
       "nome": "Pluto TV Filmes de Luta",
