@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-21T21:25:46.072170+00:00",
+  "atualizado_em_utc": "2026-10-22T03:59:31.942984+00:00",
   "total_encontrados": 396,
   "total_https": 301,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 213,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -561,12 +561,6 @@
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
-      "nome": "TV Aldeia (720p)",
-      "tvg-name": "TV Aldeia (720p)",
-      "categoria": "General",
-      "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-    },
-    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
@@ -631,12 +625,6 @@
       "tvg-name": "TV Passo Fundo (720p)",
       "categoria": "General",
       "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Petropolis (720p)",
-      "tvg-name": "TV Petropolis (720p)",
-      "categoria": "General",
-      "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
     },
     {
       "nome": "TV Sao Raimundo (268p)",
@@ -1263,12 +1251,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1339,12 +1321,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
