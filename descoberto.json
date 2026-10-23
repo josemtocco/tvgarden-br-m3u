@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-23T16:45:38.651139+00:00",
+  "atualizado_em_utc": "2026-10-23T21:11:47.200602+00:00",
   "total_encontrados": 397,
   "total_https": 301,
   "total_aprovados": 215,
@@ -135,12 +135,6 @@
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
     },
     {
-      "nome": "Retro Cartoon (720p)",
-      "tvg-name": "Retro Cartoon (720p)",
-      "categoria": "Classic",
-      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
-    },
-    {
       "nome": "AWTV (1080p) [Geo-blocked]",
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
@@ -199,12 +193,6 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    },
-    {
-      "nome": "TVE RS (1080p)",
-      "tvg-name": "TVE RS (1080p)",
-      "categoria": "Culture;Education",
-      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -637,6 +625,12 @@
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
+    },
+    {
+      "nome": "TVC-Rio",
+      "tvg-name": "TVC-Rio",
+      "categoria": "General",
+      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
     },
     {
       "nome": "TVCOM Maceio (480p)",
@@ -1249,6 +1243,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
