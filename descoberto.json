@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-22T21:21:02.793310+00:00",
-  "total_encontrados": 396,
+  "atualizado_em_utc": "2026-10-23T04:03:09.562666+00:00",
+  "total_encontrados": 397,
   "total_https": 301,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 87,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -231,6 +231,12 @@
       "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
     },
     {
+      "nome": "Pluto TV Animais",
+      "tvg-name": "Pluto TV Animais",
+      "categoria": "Documentary",
+      "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
+    },
+    {
       "nome": "Pluto TV Investigacao",
       "tvg-name": "Pluto TV Investigacao",
       "categoria": "Documentary",
@@ -405,12 +411,6 @@
       "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
     },
     {
-      "nome": "Rede NGT (1080p)",
-      "tvg-name": "Rede NGT (1080p)",
-      "categoria": "Entertainment",
-      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-    },
-    {
       "nome": "TV Curuca (360p)",
       "tvg-name": "TV Curuca (360p)",
       "categoria": "Entertainment",
@@ -537,6 +537,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+      "nome": "SBT Cuiaba",
+      "tvg-name": "SBT Cuiaba",
+      "categoria": "General",
+      "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+    },
+    {
       "nome": "SBT Interior (720p)",
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
@@ -571,6 +577,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -861,6 +873,12 @@
       "url": "https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8"
     },
     {
+      "nome": "Pluto TV Filmes Aventura",
+      "tvg-name": "Pluto TV Filmes Aventura",
+      "categoria": "Movies",
+      "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
+    },
+    {
       "nome": "Pluto TV Filmes de Luta",
       "tvg-name": "Pluto TV Filmes de Luta",
       "categoria": "Movies",
@@ -885,12 +903,6 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    },
-    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -901,12 +913,6 @@
       "tvg-name": "MTV Biggest Pop BR (1080p)",
       "categoria": "Music",
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
-    },
-    {
-      "nome": "MTV Classic BR (720p)",
-      "tvg-name": "MTV Classic BR (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "nome": "Pluto TV Shows por Stingray (720p)",
@@ -1287,6 +1293,18 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
+      "nome": "SBT Nova Mutum",
+      "tvg-name": "SBT Nova Mutum",
+      "categoria": "Undefined",
+      "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
+    },
+    {
+      "nome": "SBT Rondonopolis",
+      "tvg-name": "SBT Rondonopolis",
+      "categoria": "Undefined",
+      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
+    },
+    {
       "nome": "SIC TV (720p)",
       "tvg-name": "SIC TV (720p)",
       "categoria": "Undefined",
@@ -1321,12 +1339,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
