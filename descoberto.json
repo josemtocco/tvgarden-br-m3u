@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-23T04:03:09.562666+00:00",
+  "atualizado_em_utc": "2026-10-23T11:16:39.935091+00:00",
   "total_encontrados": 397,
   "total_https": 301,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -411,6 +411,12 @@
       "url": "https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8"
     },
     {
+      "nome": "Rede NGT (1080p)",
+      "tvg-name": "Rede NGT (1080p)",
+      "categoria": "Entertainment",
+      "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+    },
+    {
       "nome": "TV Curuca (360p)",
       "tvg-name": "TV Curuca (360p)",
       "categoria": "Entertainment",
@@ -547,12 +553,6 @@
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    },
-    {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
       "nome": "TELE 6 (720p)",
@@ -903,6 +903,12 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+    },
+    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -913,6 +919,12 @@
       "tvg-name": "MTV Biggest Pop BR (1080p)",
       "categoria": "Music",
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+    },
+    {
+      "nome": "MTV Classic BR (720p)",
+      "tvg-name": "MTV Classic BR (720p)",
+      "categoria": "Music",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "nome": "Pluto TV Shows por Stingray (720p)",
@@ -1269,12 +1281,6 @@
       "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
     },
     {
-      "nome": "Rede Globo (1080p)",
-      "tvg-name": "Rede Globo (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
-    },
-    {
       "nome": "Rede Meio Norte (720p)",
       "tvg-name": "Rede Meio Norte (720p)",
       "categoria": "Undefined",
@@ -1333,6 +1339,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
