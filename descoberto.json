@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-23T21:11:47.200602+00:00",
+  "atualizado_em_utc": "2026-10-24T03:57:19.042148+00:00",
   "total_encontrados": 397,
   "total_https": 301,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -135,6 +135,12 @@
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
     },
     {
+      "nome": "Retro Cartoon (720p)",
+      "tvg-name": "Retro Cartoon (720p)",
+      "categoria": "Classic",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+    },
+    {
       "nome": "AWTV (1080p) [Geo-blocked]",
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
@@ -193,6 +199,12 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+    },
+    {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -543,6 +555,12 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -561,10 +579,10 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
       "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1245,12 +1263,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1327,12 +1339,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",

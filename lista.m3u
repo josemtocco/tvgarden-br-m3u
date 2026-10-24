@@ -27,6 +27,8 @@ https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDesenhosClassicos.us@BR" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" tvg-name="Pluto TV Desenhos Classicos" group-title="Classic" ,Pluto TV Desenhos Classicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-name="Retro Cartoon (720p)" group-title="Classic" ,Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-name="AWTV (1080p) [Geo-blocked]" group-title="Classic;Series" ,AWTV (1080p) [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-name="Comedy Central Brasil (480p)" group-title="Comedy" ,Comedy Central Brasil (480p)
@@ -47,6 +49,8 @@ https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br@HD" tvg-logo="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" tvg-name="Bem Mais TV (1080p)" group-title="Culture;Education" ,Bem Mais TV (1080p)
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br@SD" tvg-logo="https://i.imgur.com/MQ6lJpS.png" tvg-name="TVE RS (1080p)" group-title="Culture;Education" ,TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-logo="https://i.imgur.com/N0TvAFz.png" tvg-name="Unisul TV (720p)" group-title="Culture;Education" ,Unisul TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="TVUFOP.br@HD" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-name="TV UFOP (1080p)" group-title="Culture;Education;Public" ,TV UFOP (1080p)
@@ -163,14 +167,16 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" tvg-name="SBT Interior (720p)" group-title="General" ,SBT Interior (720p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-name="SOU TV" group-title="General" ,SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" tvg-name="TELE 6 (720p)" group-title="General" ,TELE 6 (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAldeia.br@SD" tvg-logo="https://i.imgur.com/rsfnv4Z.png" tvg-name="TV Aldeia (720p)" group-title="General" ,TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-name="TV Alternativa (410p)" group-title="General" ,TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-name="TV Arapuan (720p)" group-title="General" ,TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-logo="https://i.imgur.com/noqGfuy.png" tvg-name="TV Brasil Oeste (720p)" group-title="General" ,TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-name="TV BRICS Portuguese (1080p)" group-title="General" ,TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" tvg-name="TV Comunitaria (360p)" group-title="General" ,TV Comunitaria (360p)
@@ -397,8 +403,6 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br@SD" tvg-logo="https://i.imgur.com/7rjCS5i.png" tvg-name="Amazon Sat (1080p)" group-title="Undefined" ,Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-name="Boas Novas (1080p)" group-title="Undefined" ,Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Lke.br@SD" tvg-logo="https://i.imgur.com/chHsCzB.png" tvg-name="L!ke (1080p)" group-title="Undefined" ,L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" tvg-name="Pluto TV Historia (United States)" group-title="Undefined" ,Pluto TV Historia (United States)
@@ -425,7 +429,5 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br@SD" tvg-logo="https://i.imgur.com/0FOmktl.png" tvg-name="TV Pantanal MS (360p) [Not 24/7]" group-title="Undefined" ,TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-name="TV Sul Bahia (320p)" group-title="Undefined" ,TV Sul Bahia (320p)
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-name="TV Vila Real (720p)" group-title="Undefined" ,TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
