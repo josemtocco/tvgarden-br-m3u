@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-24T15:38:51.205768+00:00",
+  "atualizado_em_utc": "2026-10-24T20:28:58.087271+00:00",
   "total_encontrados": 397,
   "total_https": 301,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -903,12 +903,6 @@
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
     },
     {
-      "nome": "MTV Classic BR (720p)",
-      "tvg-name": "MTV Classic BR (720p)",
-      "categoria": "Music",
-      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
-    },
-    {
       "nome": "Pluto TV Shows por Stingray (720p)",
       "tvg-name": "Pluto TV Shows por Stingray (720p)",
       "categoria": "Music",
@@ -1039,6 +1033,12 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
+    },
+    {
+      "nome": "Fonte TV",
+      "tvg-name": "Fonte TV",
+      "categoria": "Religious",
+      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
@@ -1315,6 +1315,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
