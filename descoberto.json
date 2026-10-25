@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-25T11:00:06.718051+00:00",
+  "atualizado_em_utc": "2026-10-25T15:49:01.921208+00:00",
   "total_encontrados": 398,
   "total_https": 301,
-  "total_aprovados": 206,
-  "total_removidos_por_teste": 95,
+  "total_aprovados": 211,
+  "total_removidos_por_teste": 90,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -31,6 +31,8 @@
     "Education",
     "Education;General",
     "Entertainment",
+    "Entertainment;Family;General;News",
+    "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
@@ -48,12 +50,6 @@
     "Undefined"
   ],
   "canais": [
-    {
-      "nome": "Naruto Brazil",
-      "tvg-name": "Naruto Brazil",
-      "categoria": "Animation",
-      "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
-    },
     {
       "nome": "One Piece BR",
       "tvg-name": "One Piece BR",
@@ -133,6 +129,12 @@
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
     },
     {
+      "nome": "Retro Cartoon (720p)",
+      "tvg-name": "Retro Cartoon (720p)",
+      "categoria": "Classic",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+    },
+    {
       "nome": "AWTV (1080p) [Geo-blocked]",
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
@@ -193,6 +195,12 @@
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
       "nome": "Unisul TV (720p)",
       "tvg-name": "Unisul TV (720p)",
       "categoria": "Culture;Education",
@@ -215,12 +223,6 @@
       "tvg-name": "Detetives Medicos",
       "categoria": "Documentary",
       "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
-    },
-    {
-      "nome": "Pluto TV Animais",
-      "tvg-name": "Pluto TV Animais",
-      "categoria": "Documentary",
-      "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
     },
     {
       "nome": "Pluto TV Investigacao",
@@ -421,6 +423,18 @@
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
+      "nome": "TV Paraense (720p)",
+      "tvg-name": "TV Paraense (720p)",
+      "categoria": "Entertainment;Family;General;News",
+      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    },
+    {
+      "nome": "NTV (Brazil) (720p)",
+      "tvg-name": "NTV (Brazil) (720p)",
+      "categoria": "Entertainment;General",
+      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
+    },
+    {
       "nome": "+MaisUm (720p)",
       "tvg-name": "+MaisUm (720p)",
       "categoria": "Entertainment;General;Movies;Music",
@@ -517,10 +531,22 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+      "nome": "SBT Cuiaba",
+      "tvg-name": "SBT Cuiaba",
+      "categoria": "General",
+      "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+    },
+    {
       "nome": "SBT Interior (720p)",
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -539,12 +565,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -841,12 +861,6 @@
       "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
     },
     {
-      "nome": "Pluto TV Filmes de Luta",
-      "tvg-name": "Pluto TV Filmes de Luta",
-      "categoria": "Movies",
-      "url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8"
-    },
-    {
       "nome": "Pluto TV Filmes Nacionais",
       "tvg-name": "Pluto TV Filmes Nacionais",
       "categoria": "Movies",
@@ -1015,6 +1029,12 @@
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
     },
     {
+      "nome": "Fonte TV",
+      "tvg-name": "Fonte TV",
+      "categoria": "Religious",
+      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+    },
+    {
       "nome": "Gospel Cartoon (360p)",
       "tvg-name": "Gospel Cartoon (360p)",
       "categoria": "Religious",
@@ -1049,6 +1069,12 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+    },
+    {
+      "nome": "TV Padre Cicero (720p)",
+      "tvg-name": "TV Padre Cicero (720p)",
+      "categoria": "Religious",
+      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
     },
     {
       "nome": "TV Terceiro Anjo (360p)",
@@ -1241,6 +1267,12 @@
       "tvg-name": "SBT Nova Mutum",
       "categoria": "Undefined",
       "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
+    },
+    {
+      "nome": "SBT Rondonopolis",
+      "tvg-name": "SBT Rondonopolis",
+      "categoria": "Undefined",
+      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
     },
     {
       "nome": "SIC TV (720p)",
