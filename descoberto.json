@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-25T15:49:01.921208+00:00",
+  "atualizado_em_utc": "2026-10-25T20:36:44.361138+00:00",
   "total_encontrados": 398,
   "total_https": 301,
-  "total_aprovados": 211,
-  "total_removidos_por_teste": 90,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -50,6 +50,12 @@
     "Undefined"
   ],
   "canais": [
+    {
+      "nome": "Naruto Brazil",
+      "tvg-name": "Naruto Brazil",
+      "categoria": "Animation",
+      "url": "https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8"
+    },
     {
       "nome": "One Piece BR",
       "tvg-name": "One Piece BR",
@@ -223,6 +229,12 @@
       "tvg-name": "Detetives Medicos",
       "categoria": "Documentary",
       "url": "https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8"
+    },
+    {
+      "nome": "Pluto TV Animais",
+      "tvg-name": "Pluto TV Animais",
+      "categoria": "Documentary",
+      "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8"
     },
     {
       "nome": "Pluto TV Investigacao",
@@ -549,6 +561,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -861,6 +879,12 @@
       "url": "https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8"
     },
     {
+      "nome": "Pluto TV Filmes de Luta",
+      "tvg-name": "Pluto TV Filmes de Luta",
+      "categoria": "Movies",
+      "url": "https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8"
+    },
+    {
       "nome": "Pluto TV Filmes Nacionais",
       "tvg-name": "Pluto TV Filmes Nacionais",
       "categoria": "Movies",
@@ -1027,12 +1051,6 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
-    },
-    {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
@@ -1303,6 +1321,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
