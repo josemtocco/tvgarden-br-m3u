@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-25T20:36:44.361138+00:00",
-  "total_encontrados": 398,
-  "total_https": 301,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 86,
+  "atualizado_em_utc": "2026-10-26T04:01:22.739354+00:00",
+  "total_encontrados": 397,
+  "total_https": 300,
+  "total_aprovados": 211,
+  "total_removidos_por_teste": 89,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -561,12 +561,6 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
-      "nome": "TELE 6 (720p)",
-      "tvg-name": "TELE 6 (720p)",
-      "categoria": "General",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-    },
-    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -583,6 +577,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -903,12 +903,6 @@
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
     },
     {
-      "nome": "KpopTV Play (576p)",
-      "tvg-name": "KpopTV Play (576p)",
-      "categoria": "Music",
-      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-    },
-    {
       "nome": "Lamore Rock Show WebTV (720p)",
       "tvg-name": "Lamore Rock Show WebTV (720p)",
       "categoria": "Music",
@@ -1087,12 +1081,6 @@
       "tvg-name": "TV Mana Brasil (1080p)",
       "categoria": "Religious",
       "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-    },
-    {
-      "nome": "TV Padre Cicero (720p)",
-      "tvg-name": "TV Padre Cicero (720p)",
-      "categoria": "Religious",
-      "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
     },
     {
       "nome": "TV Terceiro Anjo (360p)",
@@ -1323,22 +1311,10 @@
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
     },
     {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
-    },
-    {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Vila Real (720p)",
-      "tvg-name": "TV Vila Real (720p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
     }
   ]
 }
