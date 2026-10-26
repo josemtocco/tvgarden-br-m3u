@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-26T12:32:48.988211+00:00",
+  "atualizado_em_utc": "2026-10-26T22:27:41.853663+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -561,6 +561,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -577,6 +583,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -969,12 +981,6 @@
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
     },
     {
-      "nome": "Plena TV (720p)",
-      "tvg-name": "Plena TV (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-    },
-    {
       "nome": "Pluto TV Record News (720p)",
       "tvg-name": "Pluto TV Record News (720p)",
       "categoria": "News",
@@ -1009,6 +1015,12 @@
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sim Cachoeiro (720p)",
+      "tvg-name": "TV Sim Cachoeiro (720p)",
+      "categoria": "News",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1287,6 +1299,12 @@
       "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
     },
     {
+      "nome": "SIC TV (720p)",
+      "tvg-name": "SIC TV (720p)",
+      "categoria": "Undefined",
+      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+    },
+    {
       "nome": "TV A Critica",
       "tvg-name": "TV A Critica",
       "categoria": "Undefined",
@@ -1309,12 +1327,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
