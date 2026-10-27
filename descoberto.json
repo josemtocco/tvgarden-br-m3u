@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-26T22:27:41.853663+00:00",
+  "atualizado_em_utc": "2026-10-27T04:22:03.179973+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -1251,12 +1251,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1333,12 +1327,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
