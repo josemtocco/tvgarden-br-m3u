@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-27T11:50:49.611065+00:00",
+  "atualizado_em_utc": "2026-10-27T17:44:54.810223+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -381,6 +381,12 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
+      "nome": "MTV Rocks",
+      "tvg-name": "MTV Rocks",
+      "categoria": "Entertainment",
+      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
+    },
+    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -477,24 +483,6 @@
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
     },
     {
-      "nome": "Catve FM (720p) [Not 24/7]",
-      "tvg-name": "Catve FM (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve Master TV (720p) [Not 24/7]",
-      "tvg-name": "Catve Master TV (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve2 (720p)",
-      "tvg-name": "Catve2 (720p)",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
-    },
-    {
       "nome": "COM Brasil (720p)",
       "tvg-name": "COM Brasil (720p)",
       "categoria": "General",
@@ -505,6 +493,12 @@
       "tvg-name": "ConecTV Brasil (720p)",
       "categoria": "General",
       "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
+    },
+    {
+      "nome": "Conexao TV (720p)",
+      "tvg-name": "Conexao TV (720p)",
+      "categoria": "General",
+      "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
     },
     {
       "nome": "Cultura Fast (720p)",
@@ -673,12 +667,6 @@
       "tvg-name": "TVLatinaSat (720p)",
       "categoria": "General",
       "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
-    },
-    {
-      "nome": "TVNBN (720p)",
-      "tvg-name": "TVNBN (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
     },
     {
       "nome": "Avatar: A lenda de Aang",
@@ -987,6 +975,12 @@
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
     },
     {
+      "nome": "Plena TV (720p)",
+      "tvg-name": "Plena TV (720p)",
+      "categoria": "News",
+      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+    },
+    {
       "nome": "Pluto TV Record News (720p)",
       "tvg-name": "Pluto TV Record News (720p)",
       "categoria": "News",
@@ -1021,12 +1015,6 @@
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sim Cachoeiro (720p)",
-      "tvg-name": "TV Sim Cachoeiro (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1255,6 +1243,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
