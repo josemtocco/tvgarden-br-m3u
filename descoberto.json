@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-27T04:22:03.179973+00:00",
+  "atualizado_em_utc": "2026-10-27T11:50:49.611065+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -381,12 +381,6 @@
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
     {
-      "nome": "MTV Rocks",
-      "tvg-name": "MTV Rocks",
-      "categoria": "Entertainment",
-      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
-    },
-    {
       "nome": "MTV Shore",
       "tvg-name": "MTV Shore",
       "categoria": "Entertainment",
@@ -483,6 +477,24 @@
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
     },
     {
+      "nome": "Catve FM (720p) [Not 24/7]",
+      "tvg-name": "Catve FM (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
+    },
+    {
+      "nome": "Catve Master TV (720p) [Not 24/7]",
+      "tvg-name": "Catve Master TV (720p) [Not 24/7]",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
+    },
+    {
+      "nome": "Catve2 (720p)",
+      "tvg-name": "Catve2 (720p)",
+      "categoria": "General",
+      "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
+    },
+    {
       "nome": "COM Brasil (720p)",
       "tvg-name": "COM Brasil (720p)",
       "categoria": "General",
@@ -573,34 +585,22 @@
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     },
     {
+      "nome": "TV Alianca Catarinense (720p)",
+      "tvg-name": "TV Alianca Catarinense (720p)",
+      "categoria": "General",
+      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
+    },
+    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
-      "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
       "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
-    },
-    {
-      "nome": "TV Comunitaria (360p)",
-      "tvg-name": "TV Comunitaria (360p)",
-      "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
     },
     {
       "nome": "TV Difusao (720p)",
@@ -925,6 +925,12 @@
       "tvg-name": "MTV Biggest Pop BR (1080p)",
       "categoria": "Music",
       "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8"
+    },
+    {
+      "nome": "MTV Classic BR (720p)",
+      "tvg-name": "MTV Classic BR (720p)",
+      "categoria": "Music",
+      "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8"
     },
     {
       "nome": "Pluto TV Shows por Stingray (720p)",
@@ -1321,6 +1327,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
