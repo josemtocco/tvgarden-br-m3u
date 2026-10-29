@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-29T05:02:52.684127+00:00",
+  "atualizado_em_utc": "2026-10-29T12:35:04.118768+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 220,
-  "total_removidos_por_teste": 80,
+  "total_aprovados": 219,
+  "total_removidos_por_teste": 81,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -201,6 +201,12 @@
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
     },
     {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
       "nome": "Unisul TV (720p)",
       "tvg-name": "Unisul TV (720p)",
       "categoria": "Culture;Education",
@@ -333,12 +339,6 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
-      "nome": "ElyTV (360p)",
-      "tvg-name": "ElyTV (360p)",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-    },
-    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -373,6 +373,12 @@
       "tvg-name": "MTV Reality (United States) (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+    },
+    {
+      "nome": "MTV Rocks",
+      "tvg-name": "MTV Rocks",
+      "categoria": "Entertainment",
+      "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
     },
     {
       "nome": "MTV Shore",
@@ -549,12 +555,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -583,12 +583,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1077,12 +1071,6 @@
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
     },
     {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
-    },
-    {
       "nome": "Gospel Cartoon (360p)",
       "tvg-name": "Gospel Cartoon (360p)",
       "categoria": "Religious",
@@ -1279,6 +1267,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
