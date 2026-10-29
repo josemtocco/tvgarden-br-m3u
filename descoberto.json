@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-29T12:35:04.118768+00:00",
+  "atualizado_em_utc": "2026-10-29T22:35:30.908211+00:00",
   "total_encontrados": 398,
   "total_https": 300,
   "total_aprovados": 219,
@@ -32,7 +32,6 @@
     "Education;General",
     "Entertainment",
     "Entertainment;Family;General;News",
-    "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
@@ -339,6 +338,12 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
+      "nome": "ElyTV (360p)",
+      "tvg-name": "ElyTV (360p)",
+      "categoria": "Entertainment",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+    },
+    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -433,12 +438,6 @@
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
       "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-    },
-    {
-      "nome": "NTV (Brazil) (720p)",
-      "tvg-name": "NTV (Brazil) (720p)",
-      "categoria": "Entertainment;General",
-      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
       "nome": "+MaisUm (720p)",
@@ -579,10 +578,10 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Arapuan (720p)",
-      "tvg-name": "TV Arapuan (720p)",
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
       "categoria": "General",
-      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
