@@ -1,7 +1,7 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-30T05:02:25.347539+00:00",
+  "atualizado_em_utc": "2026-10-30T12:26:23.027422+00:00",
   "total_encontrados": 398,
   "total_https": 300,
   "total_aprovados": 222,
@@ -32,6 +32,7 @@
     "Education;General",
     "Entertainment",
     "Entertainment;Family;General;News",
+    "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
@@ -439,6 +440,12 @@
       "tvg-name": "TV Paraense (720p)",
       "categoria": "Entertainment;Family;General;News",
       "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    },
+    {
+      "nome": "NTV (Brazil) (720p)",
+      "tvg-name": "NTV (Brazil) (720p)",
+      "categoria": "Entertainment;General",
+      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
       "nome": "+MaisUm (720p)",
@@ -1075,12 +1082,6 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
-    },
-    {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
