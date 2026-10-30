@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-10-29T22:35:30.908211+00:00",
+  "atualizado_em_utc": "2026-10-30T05:02:25.347539+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 219,
-  "total_removidos_por_teste": 81,
+  "total_aprovados": 222,
+  "total_removidos_por_teste": 78,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,6 +45,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -552,6 +553,12 @@
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
       "nome": "TELE 6 (720p)",
@@ -1070,6 +1077,12 @@
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
     },
     {
+      "nome": "Fonte TV",
+      "tvg-name": "Fonte TV",
+      "categoria": "Religious",
+      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
+    },
+    {
       "nome": "Gospel Cartoon (360p)",
       "tvg-name": "Gospel Cartoon (360p)",
       "categoria": "Religious",
@@ -1248,6 +1261,12 @@
       "tvg-name": "TV Series (480p)",
       "categoria": "Series",
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+    },
+    {
+      "nome": "1001 Noites (480p)",
+      "tvg-name": "1001 Noites (480p)",
+      "categoria": "Shop",
+      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
     },
     {
       "nome": "FIFA+ Portuguese (720p)",
