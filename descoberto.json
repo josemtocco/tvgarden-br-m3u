@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-01T05:14:17.366868+00:00",
+  "atualizado_em_utc": "2026-11-01T12:55:10.825965+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 224,
-  "total_removidos_por_teste": 76,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -478,24 +478,6 @@
       "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
     },
     {
-      "nome": "Catve FM (720p) [Not 24/7]",
-      "tvg-name": "Catve FM (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve Master TV (720p) [Not 24/7]",
-      "tvg-name": "Catve Master TV (720p) [Not 24/7]",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8"
-    },
-    {
-      "nome": "Catve2 (720p)",
-      "tvg-name": "Catve2 (720p)",
-      "categoria": "General",
-      "url": "https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8"
-    },
-    {
       "nome": "COM Brasil (720p)",
       "tvg-name": "COM Brasil (720p)",
       "categoria": "General",
@@ -604,12 +586,6 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -674,12 +650,6 @@
       "tvg-name": "TV Sao Raimundo (268p)",
       "categoria": "General",
       "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
-    },
-    {
-      "nome": "TVC-Rio",
-      "tvg-name": "TVC-Rio",
-      "categoria": "General",
-      "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
     },
     {
       "nome": "TVCOM Maceio (480p)",
@@ -1306,6 +1276,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1342,12 +1318,6 @@
       "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
     },
     {
-      "nome": "SBT Rondonopolis",
-      "tvg-name": "SBT Rondonopolis",
-      "categoria": "Undefined",
-      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
-    },
-    {
       "nome": "SIC TV (720p)",
       "tvg-name": "SIC TV (720p)",
       "categoria": "Undefined",
@@ -1376,12 +1346,6 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-    },
-    {
-      "nome": "TV Guara (720p) [Not 24/7]",
-      "tvg-name": "TV Guara (720p) [Not 24/7]",
-      "categoria": "Undefined",
-      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
