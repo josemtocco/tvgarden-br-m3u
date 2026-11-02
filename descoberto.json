@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-01T21:51:21.974651+00:00",
-  "total_encontrados": 398,
+  "atualizado_em_utc": "2026-11-02T05:14:12.436344+00:00",
+  "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -194,6 +194,12 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+    },
+    {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -550,18 +556,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
-      "nome": "TELE 6 (720p)",
-      "tvg-name": "TELE 6 (720p)",
-      "categoria": "General",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-    },
-    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -578,12 +572,6 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1276,12 +1264,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1318,6 +1300,12 @@
       "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
     },
     {
+      "nome": "SBT Rondonopolis",
+      "tvg-name": "SBT Rondonopolis",
+      "categoria": "Undefined",
+      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
+    },
+    {
       "nome": "SIC TV (720p)",
       "tvg-name": "SIC TV (720p)",
       "categoria": "Undefined",
@@ -1346,6 +1334,12 @@
       "tvg-name": "TV Fronteira (480i)",
       "categoria": "Undefined",
       "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
+      "nome": "TV Guara (720p) [Not 24/7]",
+      "tvg-name": "TV Guara (720p) [Not 24/7]",
+      "categoria": "Undefined",
+      "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
       "nome": "TV Pantanal MS (360p) [Not 24/7]",
