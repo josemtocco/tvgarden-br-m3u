@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-04T05:34:10.455598+00:00",
+  "atualizado_em_utc": "2026-11-04T14:01:00.126872+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -31,7 +31,7 @@
     "Education",
     "Education;General",
     "Entertainment",
-    "Entertainment;Family;General;News",
+    "Entertainment;General",
     "Entertainment;General;Movies;Music",
     "Entertainment;News",
     "Family",
@@ -429,10 +429,10 @@
       "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
     },
     {
-      "nome": "TV Paraense (720p)",
-      "tvg-name": "TV Paraense (720p)",
-      "categoria": "Entertainment;Family;General;News",
-      "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+      "nome": "NTV (Brazil) (720p)",
+      "tvg-name": "NTV (Brazil) (720p)",
+      "categoria": "Entertainment;General",
+      "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
     },
     {
       "nome": "+MaisUm (720p)",
@@ -549,12 +549,6 @@
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
-      "nome": "SOU TV",
-      "tvg-name": "SOU TV",
-      "categoria": "General",
-      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
       "nome": "TELE 6 (720p)",
       "tvg-name": "TELE 6 (720p)",
       "categoria": "General",
@@ -579,10 +573,10 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -901,6 +895,12 @@
       "tvg-name": "Pluto TV Terror Trash",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8"
+    },
+    {
+      "nome": "KpopTV Play (576p)",
+      "tvg-name": "KpopTV Play (576p)",
+      "categoria": "Music",
+      "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
     },
     {
       "nome": "Lamore Rock Show WebTV (720p)",
@@ -1263,6 +1263,12 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    },
+    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1299,12 +1305,6 @@
       "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
     },
     {
-      "nome": "SIC TV (720p)",
-      "tvg-name": "SIC TV (720p)",
-      "categoria": "Undefined",
-      "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
-    },
-    {
       "nome": "TV A Critica",
       "tvg-name": "TV A Critica",
       "categoria": "Undefined",
@@ -1323,6 +1323,12 @@
       "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
     },
     {
+      "nome": "TV Fronteira (480i)",
+      "tvg-name": "TV Fronteira (480i)",
+      "categoria": "Undefined",
+      "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+    },
+    {
       "nome": "TV Guara (720p) [Not 24/7]",
       "tvg-name": "TV Guara (720p) [Not 24/7]",
       "categoria": "Undefined",
@@ -1333,6 +1339,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
