@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-04T23:25:46.634568+00:00",
+  "atualizado_em_utc": "2026-11-05T05:53:21.591425+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,7 +45,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -193,12 +192,6 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    },
-    {
-      "nome": "TVE RS (1080p)",
-      "tvg-name": "TVE RS (1080p)",
-      "categoria": "Culture;Education",
-      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -603,12 +596,6 @@
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     },
     {
-      "nome": "TV Litoral RN (720p)",
-      "tvg-name": "TV Litoral RN (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
-    },
-    {
       "nome": "TV Mais Marica (1080p)",
       "tvg-name": "TV Mais Marica (1080p)",
       "categoria": "General",
@@ -1011,16 +998,16 @@
       "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
-      "nome": "TV Brusque (720p)",
-      "tvg-name": "TV Brusque (720p)",
-      "categoria": "News",
-      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-    },
-    {
       "nome": "TV Sim Cachoeiro (720p)",
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sim Sao Mateus (720p)",
+      "tvg-name": "TV Sim Sao Mateus (720p)",
+      "categoria": "News",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1237,12 +1224,6 @@
       "tvg-name": "TV Series (480p)",
       "categoria": "Series",
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    },
-    {
-      "nome": "1001 Noites (480p)",
-      "tvg-name": "1001 Noites (480p)",
-      "categoria": "Shop",
-      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
     },
     {
       "nome": "FIFA+ Portuguese (720p)",
