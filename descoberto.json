@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-05T05:53:21.591425+00:00",
+  "atualizado_em_utc": "2026-11-05T14:22:09.563220+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -192,6 +192,12 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
+    },
+    {
+      "nome": "TVE RS (1080p)",
+      "tvg-name": "TVE RS (1080p)",
+      "categoria": "Culture;Education",
+      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -596,6 +602,12 @@
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     },
     {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+    },
+    {
       "nome": "TV Mais Marica (1080p)",
       "tvg-name": "TV Mais Marica (1080p)",
       "categoria": "General",
@@ -998,6 +1010,12 @@
       "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
+      "nome": "TV Brusque (720p)",
+      "tvg-name": "TV Brusque (720p)",
+      "categoria": "News",
+      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+    },
+    {
       "nome": "TV Sim Cachoeiro (720p)",
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
@@ -1244,12 +1262,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1332,6 +1344,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
