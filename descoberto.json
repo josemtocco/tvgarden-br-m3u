@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-05T14:22:09.563220+00:00",
+  "atualizado_em_utc": "2026-11-05T23:27:32.726061+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 219,
+  "total_removidos_por_teste": 81,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,6 +45,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -576,6 +577,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1244,6 +1251,12 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
+      "nome": "1001 Noites (480p)",
+      "tvg-name": "1001 Noites (480p)",
+      "categoria": "Shop",
+      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
+    },
+    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1344,12 +1357,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
