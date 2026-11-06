@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-05T23:27:32.726061+00:00",
+  "atualizado_em_utc": "2026-11-06T05:50:11.139794+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 219,
-  "total_removidos_por_teste": 81,
+  "total_aprovados": 220,
+  "total_removidos_por_teste": 80,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,7 +45,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -309,8 +308,8 @@
       "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
     },
     {
-      "nome": "Canal FDR",
-      "tvg-name": "Canal FDR",
+      "nome": "Canal FDR (1080p)",
+      "tvg-name": "Canal FDR (1080p)",
       "categoria": "Education;General",
       "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
     },
@@ -507,8 +506,8 @@
       "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
     },
     {
-      "nome": "O Dia TV",
-      "tvg-name": "O Dia TV",
+      "nome": "O Dia TV (450p)",
+      "tvg-name": "O Dia TV (450p)",
       "categoria": "General",
       "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
     },
@@ -531,14 +530,14 @@
       "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
     },
     {
-      "nome": "Rede TV! Mais",
-      "tvg-name": "Rede TV! Mais",
+      "nome": "Rede TV! Mais (720p)",
+      "tvg-name": "Rede TV! Mais (720p)",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
-      "nome": "SBT Cuiaba",
-      "tvg-name": "SBT Cuiaba",
+      "nome": "SBT Cuiaba (818p)",
+      "tvg-name": "SBT Cuiaba (818p)",
       "categoria": "General",
       "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
     },
@@ -547,6 +546,12 @@
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
+      "nome": "SOU TV",
+      "tvg-name": "SOU TV",
+      "categoria": "General",
+      "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
       "nome": "TELE 6 (720p)",
@@ -945,8 +950,8 @@
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8"
     },
     {
-      "nome": "Aratu On",
-      "tvg-name": "Aratu On",
+      "nome": "Aratu On (1080p)",
+      "tvg-name": "Aratu On (1080p)",
       "categoria": "News",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
     },
@@ -1251,12 +1256,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (480p)",
-      "tvg-name": "1001 Noites (480p)",
-      "categoria": "Shop",
-      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1273,6 +1272,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
@@ -1305,14 +1310,14 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
-      "nome": "SBT Nova Mutum",
-      "tvg-name": "SBT Nova Mutum",
+      "nome": "SBT Nova Mutum (818p)",
+      "tvg-name": "SBT Nova Mutum (818p)",
       "categoria": "Undefined",
       "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
     },
     {
-      "nome": "SBT Rondonopolis",
-      "tvg-name": "SBT Rondonopolis",
+      "nome": "SBT Rondonopolis (720p)",
+      "tvg-name": "SBT Rondonopolis (720p)",
       "categoria": "Undefined",
       "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
     },
@@ -1323,8 +1328,8 @@
       "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
     },
     {
-      "nome": "TV A Critica",
-      "tvg-name": "TV A Critica",
+      "nome": "TV A Critica (1080p)",
+      "tvg-name": "TV A Critica (1080p)",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
     },
