@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-07T12:42:12.568518+00:00",
+  "atualizado_em_utc": "2026-11-07T21:37:20.667715+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 220,
+  "total_removidos_por_teste": 80,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -495,6 +495,12 @@
       "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
     },
     {
+      "nome": "ConecTV Brasil (720p)",
+      "tvg-name": "ConecTV Brasil (720p)",
+      "categoria": "General",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8"
+    },
+    {
       "nome": "Conexao TV (720p)",
       "tvg-name": "Conexao TV (720p)",
       "categoria": "General",
@@ -567,6 +573,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (720p)",
+      "tvg-name": "TELE 6 (720p)",
+      "categoria": "General",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -585,16 +597,22 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
+      "nome": "TV Arapuan (720p)",
+      "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+      "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
       "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
+    },
+    {
+      "nome": "TV Comunitaria (360p)",
+      "tvg-name": "TV Comunitaria (360p)",
+      "categoria": "General",
+      "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
     },
     {
       "nome": "TV Difusao (720p)",
@@ -1011,12 +1029,6 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1099,6 +1111,12 @@
       "tvg-name": "TV Padre Cicero (720p)",
       "categoria": "Religious",
       "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
+    },
+    {
+      "nome": "TV Terceiro Anjo (360p)",
+      "tvg-name": "TV Terceiro Anjo (360p)",
+      "categoria": "Religious",
+      "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
     },
     {
       "nome": "TV Universal (480p)",
