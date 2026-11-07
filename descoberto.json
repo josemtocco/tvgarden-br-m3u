@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-07T05:21:05.766681+00:00",
+  "atualizado_em_utc": "2026-11-07T12:42:12.568518+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -1099,12 +1099,6 @@
       "tvg-name": "TV Padre Cicero (720p)",
       "categoria": "Religious",
       "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
-    },
-    {
-      "nome": "TV Terceiro Anjo (360p)",
-      "tvg-name": "TV Terceiro Anjo (360p)",
-      "categoria": "Religious",
-      "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
     },
     {
       "nome": "TV Universal (480p)",
