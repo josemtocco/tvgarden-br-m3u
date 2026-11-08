@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-07T21:37:20.667715+00:00",
-  "total_encontrados": 398,
+  "atualizado_em_utc": "2026-11-08T05:18:31.565180+00:00",
+  "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 220,
-  "total_removidos_por_teste": 80,
+  "total_aprovados": 219,
+  "total_removidos_por_teste": 81,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -573,12 +573,6 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
-      "nome": "TELE 6 (720p)",
-      "tvg-name": "TELE 6 (720p)",
-      "categoria": "General",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-    },
-    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -975,12 +969,6 @@
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
-      "nome": "Canal 38 (720p)",
-      "tvg-name": "Canal 38 (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-    },
-    {
       "nome": "Canal Metropolitano de Noticias",
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
@@ -1027,6 +1015,12 @@
       "tvg-name": "Times Brasil (720p)",
       "categoria": "News",
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
+    },
+    {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Brusque (720p)",
