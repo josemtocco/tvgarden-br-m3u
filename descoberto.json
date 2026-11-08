@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-08T05:18:31.565180+00:00",
+  "atualizado_em_utc": "2026-11-08T12:59:32.959323+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 219,
-  "total_removidos_por_teste": 81,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -22,7 +22,6 @@
     "Comedy;Series",
     "Cooking",
     "Cooking;Lifestyle",
-    "Culture",
     "Culture;Education",
     "Culture;Education;Public",
     "Culture;News",
@@ -45,7 +44,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -181,12 +179,6 @@
       "tvg-name": "Pluto TV KFOOD",
       "categoria": "Cooking;Lifestyle",
       "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
-    },
-    {
-      "nome": "TV Life America (720p)",
-      "tvg-name": "TV Life America (720p)",
-      "categoria": "Culture",
-      "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
     },
     {
       "nome": "Bem Mais TV (1080p)",
@@ -969,6 +961,12 @@
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
+      "nome": "Canal 38 (720p)",
+      "tvg-name": "Canal 38 (720p)",
+      "categoria": "News",
+      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+    },
+    {
       "nome": "Canal Metropolitano de Noticias",
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
@@ -985,12 +983,6 @@
       "tvg-name": "J3NEWS TV",
       "categoria": "News",
       "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
-    },
-    {
-      "nome": "Plena TV (720p)",
-      "tvg-name": "Plena TV (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
     },
     {
       "nome": "Pluto TV Record News (720p)",
@@ -1243,12 +1235,6 @@
       "tvg-name": "TV Series (480p)",
       "categoria": "Series",
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-    },
-    {
-      "nome": "1001 Noites (480p)",
-      "tvg-name": "1001 Noites (480p)",
-      "categoria": "Shop",
-      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
     },
     {
       "nome": "FIFA+ Portuguese (720p)",
