@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-09T05:29:37.820832+00:00",
+  "atualizado_em_utc": "2026-11-09T15:40:56.111863+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 221,
+  "total_removidos_por_teste": 79,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -596,12 +596,6 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -672,6 +666,12 @@
       "tvg-name": "TVCOM Maceio (480p)",
       "categoria": "General",
       "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
+    },
+    {
+      "nome": "TVitape (720p)",
+      "tvg-name": "TVitape (720p)",
+      "categoria": "General",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     },
     {
       "nome": "TVLatinaSat (720p)",
@@ -1016,6 +1016,12 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    },
+    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1026,6 +1032,12 @@
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sim Sao Mateus (720p)",
+      "tvg-name": "TV Sim Sao Mateus (720p)",
+      "categoria": "News",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1350,6 +1362,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
