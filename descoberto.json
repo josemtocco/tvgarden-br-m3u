@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-08T21:51:18.652171+00:00",
+  "atualizado_em_utc": "2026-11-09T05:29:37.820832+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -72,6 +72,12 @@
       "tvg-name": "Pluto TV Anime BR",
       "categoria": "Animation",
       "url": "https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8"
+    },
+    {
+      "nome": "Tokusato",
+      "tvg-name": "Tokusato",
+      "categoria": "Animation",
+      "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
     },
     {
       "nome": "Comedy Central South Park",
@@ -852,6 +858,12 @@
       "tvg-name": "Pluto TV Cine Inspiracao",
       "categoria": "Movies",
       "url": "https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8"
+    },
+    {
+      "nome": "Pluto TV Cine Romance",
+      "tvg-name": "Pluto TV Cine Romance",
+      "categoria": "Movies",
+      "url": "https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8"
     },
     {
       "nome": "Pluto TV Cine Sucessos",

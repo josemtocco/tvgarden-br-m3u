@@ -7,6 +7,8 @@ https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-name="Pluto TV Anime BR" group-title="Animation" ,Pluto TV Anime BR
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-logo="https://i.imgur.com/tWpjXtl.png" tvg-name="Tokusato" group-title="Animation" ,Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@BR" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" ,Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoCartman.us@BR" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" tvg-name="South Park: Colecao Cartman" group-title="Animation;Comedy" ,South Park: Colecao Cartman
@@ -267,6 +269,8 @@ https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG_1748874366972.png" tvg-name="Pluto TV Cine Inspiracao" group-title="Movies" ,Pluto TV Cine Inspiracao
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" tvg-name="Pluto TV Cine Romance" group-title="Movies" ,Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineSucessos.us@BR" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" tvg-name="Pluto TV Cine Sucessos" group-title="Movies" ,Pluto TV Cine Sucessos
 https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us@BR" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" tvg-name="Pluto TV Ficcao Cientifica" group-title="Movies" ,Pluto TV Ficcao Cientifica
