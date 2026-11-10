@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-09T15:40:56.111863+00:00",
+  "atualizado_em_utc": "2026-11-10T01:20:05.682001+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 221,
-  "total_removidos_por_teste": 79,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -554,12 +554,6 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
-      "nome": "SBT Cuiaba (818p)",
-      "tvg-name": "SBT Cuiaba (818p)",
-      "categoria": "General",
-      "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
-    },
-    {
       "nome": "SBT Interior (720p)",
       "tvg-name": "SBT Interior (720p)",
       "categoria": "General",
@@ -1070,12 +1064,6 @@
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
     },
     {
-      "nome": "Fonte TV",
-      "tvg-name": "Fonte TV",
-      "categoria": "Religious",
-      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
-    },
-    {
       "nome": "Gospel Cartoon (360p)",
       "tvg-name": "Gospel Cartoon (360p)",
       "categoria": "Religious",
@@ -1086,12 +1074,6 @@
       "tvg-name": "Gospel Movie TV (360p)",
       "categoria": "Religious",
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
-    },
-    {
-      "nome": "Plenitude TV",
-      "tvg-name": "Plenitude TV",
-      "categoria": "Religious",
-      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
       "nome": "Rede Gospel (1080p)",
@@ -1274,12 +1256,6 @@
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-    },
-    {
       "nome": "L!ke (1080p)",
       "tvg-name": "L!ke (1080p)",
       "categoria": "Undefined",
@@ -1314,12 +1290,6 @@
       "tvg-name": "SBT Nova Mutum (818p)",
       "categoria": "Undefined",
       "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
-    },
-    {
-      "nome": "SBT Rondonopolis (720p)",
-      "tvg-name": "SBT Rondonopolis (720p)",
-      "categoria": "Undefined",
-      "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
     },
     {
       "nome": "SIC TV (720p)",
@@ -1362,12 +1332,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
