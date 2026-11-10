@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-10T01:20:05.682001+00:00",
+  "atualizado_em_utc": "2026-11-10T14:35:58.174654+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,6 +45,7 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
+    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -330,12 +331,6 @@
       "tvg-name": "Conecta Mais TV (720p)",
       "categoria": "Entertainment",
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
-    },
-    {
-      "nome": "ElyTV (360p)",
-      "tvg-name": "ElyTV (360p)",
-      "categoria": "Entertainment",
-      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
     },
     {
       "nome": "Loading (720p)",
@@ -1076,6 +1071,12 @@
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
     },
     {
+      "nome": "Plenitude TV",
+      "tvg-name": "Plenitude TV",
+      "categoria": "Religious",
+      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
+    },
+    {
       "nome": "Rede Gospel (1080p)",
       "tvg-name": "Rede Gospel (1080p)",
       "categoria": "Religious",
@@ -1238,6 +1239,12 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
+      "nome": "1001 Noites (480p)",
+      "tvg-name": "1001 Noites (480p)",
+      "categoria": "Shop",
+      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
+    },
+    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1254,6 +1261,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
@@ -1332,6 +1345,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
