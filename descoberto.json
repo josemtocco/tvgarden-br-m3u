@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-10T14:35:58.174654+00:00",
+  "atualizado_em_utc": "2026-11-10T22:59:50.540582+00:00",
   "total_encontrados": 402,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -133,12 +133,6 @@
       "tvg-name": "Pluto TV Desenhos Classicos",
       "categoria": "Classic",
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
-    },
-    {
-      "nome": "Retro Cartoon (720p)",
-      "tvg-name": "Retro Cartoon (720p)",
-      "categoria": "Classic",
-      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
     },
     {
       "nome": "AWTV (1080p) [Geo-blocked]",
@@ -1345,12 +1339,6 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
-      "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
