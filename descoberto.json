@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-11T05:27:46.436437+00:00",
+  "atualizado_em_utc": "2026-11-11T13:50:25.878438+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 218,
+  "total_removidos_por_teste": 82,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -135,6 +135,12 @@
       "url": "https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8"
     },
     {
+      "nome": "Retro Cartoon (720p)",
+      "tvg-name": "Retro Cartoon (720p)",
+      "categoria": "Classic",
+      "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+    },
+    {
       "nome": "AWTV (1080p) [Geo-blocked]",
       "tvg-name": "AWTV (1080p) [Geo-blocked]",
       "categoria": "Classic;Series",
@@ -193,6 +199,12 @@
       "tvg-name": "TVE RS (1080p)",
       "categoria": "Culture;Education",
       "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+    },
+    {
+      "nome": "Unisul TV (720p)",
+      "tvg-name": "Unisul TV (720p)",
+      "categoria": "Culture;Education",
+      "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     },
     {
       "nome": "TV UFOP (1080p)",
@@ -571,6 +583,12 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1285,6 +1303,12 @@
       "tvg-name": "SBT Nacional (1080p)",
       "categoria": "Undefined",
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
+    },
+    {
+      "nome": "SBT Nova Mutum (818p)",
+      "tvg-name": "SBT Nova Mutum (818p)",
+      "categoria": "Undefined",
+      "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
     },
     {
       "nome": "SIC TV (720p)",
