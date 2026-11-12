@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-12T00:17:27.185003+00:00",
+  "atualizado_em_utc": "2026-11-12T14:52:44.375314+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 85,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 83,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -945,12 +945,6 @@
       "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
     },
     {
-      "nome": "Canal 38 (720p)",
-      "tvg-name": "Canal 38 (720p)",
-      "categoria": "News",
-      "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-    },
-    {
       "nome": "Canal Metropolitano de Noticias",
       "tvg-name": "Canal Metropolitano de Noticias",
       "categoria": "News",
@@ -999,6 +993,12 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    },
+    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1045,6 +1045,12 @@
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
       "url": "https://br.conectmy.com.br/DespertarTV/index.m3u8"
+    },
+    {
+      "nome": "Fonte TV",
+      "tvg-name": "Fonte TV",
+      "categoria": "Religious",
+      "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
     },
     {
       "nome": "Gospel Cartoon (360p)",
@@ -1333,6 +1339,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
