@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-11T13:50:25.878438+00:00",
+  "atualizado_em_utc": "2026-11-12T00:17:27.185003+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 218,
-  "total_removidos_por_teste": 82,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -585,12 +585,6 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-    },
-    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -933,12 +927,6 @@
       "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
     },
     {
-      "nome": "TikTok Radio Brasil (1080p)",
-      "tvg-name": "TikTok Radio Brasil (1080p)",
-      "categoria": "Music",
-      "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-    },
-    {
       "nome": "Trace Brazuca HD (1080p)",
       "tvg-name": "Trace Brazuca HD (1080p)",
       "categoria": "Music",
@@ -1009,12 +997,6 @@
       "tvg-name": "Times Brasil (720p)",
       "categoria": "News",
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
-    },
-    {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Brusque (720p)",
