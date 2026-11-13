@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-13T14:16:41.349036+00:00",
+  "atualizado_em_utc": "2026-11-13T23:23:45.254981+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 86,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -567,6 +567,12 @@
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     },
     {
+      "nome": "TV Alianca Catarinense (720p)",
+      "tvg-name": "TV Alianca Catarinense (720p)",
+      "categoria": "General",
+      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
+    },
+    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
@@ -1009,6 +1015,12 @@
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+    },
+    {
+      "nome": "TVideoNews (720p) [Not 24/7]",
+      "tvg-name": "TVideoNews (720p) [Not 24/7]",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
     },
     {
       "nome": "VEJA+ TV (1080p)",
