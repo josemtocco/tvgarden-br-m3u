@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-15T13:41:58.034391+00:00",
+  "atualizado_em_utc": "2026-11-15T22:38:24.394386+00:00",
   "total_encontrados": 398,
   "total_https": 300,
-  "total_aprovados": 212,
-  "total_removidos_por_teste": 88,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -333,6 +333,12 @@
       "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8"
     },
     {
+      "nome": "ElyTV (360p)",
+      "tvg-name": "ElyTV (360p)",
+      "categoria": "Entertainment",
+      "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+    },
+    {
       "nome": "Loading (720p)",
       "tvg-name": "Loading (720p)",
       "categoria": "Entertainment",
@@ -577,6 +583,12 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -985,6 +997,12 @@
       "tvg-name": "Times Brasil (720p)",
       "categoria": "News",
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
+    },
+    {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
       "nome": "TV Sim Sao Mateus (720p)",
