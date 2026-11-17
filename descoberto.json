@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-17T01:44:50.059906+00:00",
+  "atualizado_em_utc": "2026-11-17T15:43:17.591106+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 83,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 84,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -193,12 +193,6 @@
       "tvg-name": "Bem Mais TV (1080p)",
       "categoria": "Culture;Education",
       "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
-    },
-    {
-      "nome": "TVE RS (1080p)",
-      "tvg-name": "TVE RS (1080p)",
-      "categoria": "Culture;Education",
-      "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
     },
     {
       "nome": "Unisul TV (720p)",
@@ -537,6 +531,12 @@
       "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
     },
     {
+      "nome": "Rede Brasil (1080p)",
+      "tvg-name": "Rede Brasil (1080p)",
+      "categoria": "General",
+      "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+    },
+    {
       "nome": "Rede SPTV (360p)",
       "tvg-name": "Rede SPTV (360p)",
       "categoria": "General",
@@ -585,6 +585,12 @@
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
     },
     {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -607,12 +613,6 @@
       "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
-    },
-    {
-      "nome": "TV Litoral RN (720p)",
-      "tvg-name": "TV Litoral RN (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -1015,12 +1015,6 @@
       "tvg-name": "TV Sim Cachoeiro (720p)",
       "categoria": "News",
       "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-    },
-    {
-      "nome": "TV Sim Sao Mateus (720p)",
-      "tvg-name": "TV Sim Sao Mateus (720p)",
-      "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
