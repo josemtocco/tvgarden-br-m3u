@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-19T00:03:38.265933+00:00",
+  "atualizado_em_utc": "2026-11-19T15:28:49.895576+00:00",
   "total_encontrados": 397,
   "total_https": 300,
-  "total_aprovados": 216,
-  "total_removidos_por_teste": 84,
+  "total_aprovados": 215,
+  "total_removidos_por_teste": 85,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -45,7 +45,6 @@
     "Outdoor;Sports",
     "Religious",
     "Series",
-    "Shop",
     "Sports",
     "Undefined"
   ],
@@ -567,6 +566,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (1080p)",
+      "tvg-name": "TELE 6 (1080p)",
+      "categoria": "General",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -589,12 +594,6 @@
       "tvg-name": "TV Arapuan (720p)",
       "categoria": "General",
       "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -1017,10 +1016,10 @@
       "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     },
     {
-      "nome": "TV Sim Cachoeiro (720p)",
-      "tvg-name": "TV Sim Cachoeiro (720p)",
+      "nome": "TV Brusque (720p)",
+      "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
-      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+      "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1099,12 +1098,6 @@
       "tvg-name": "TV Padre Cicero (720p)",
       "categoria": "Religious",
       "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
-    },
-    {
-      "nome": "TV Terceiro Anjo (360p)",
-      "tvg-name": "TV Terceiro Anjo (360p)",
-      "categoria": "Religious",
-      "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
     },
     {
       "nome": "TV Universal (480p)",
@@ -1239,12 +1232,6 @@
       "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
     },
     {
-      "nome": "1001 Noites (480p)",
-      "tvg-name": "1001 Noites (480p)",
-      "categoria": "Shop",
-      "url": "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
-    },
-    {
       "nome": "FIFA+ Portuguese (720p)",
       "tvg-name": "FIFA+ Portuguese (720p)",
       "categoria": "Sports",
@@ -1339,6 +1326,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
