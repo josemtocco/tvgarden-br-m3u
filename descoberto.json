@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-20T23:49:04.366177+00:00",
-  "total_encontrados": 398,
-  "total_https": 300,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 85,
+  "atualizado_em_utc": "2026-11-21T06:21:35.514784+00:00",
+  "total_encontrados": 399,
+  "total_https": 301,
+  "total_aprovados": 214,
+  "total_removidos_por_teste": 87,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -123,8 +123,8 @@
       "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8"
     },
     {
-      "nome": "MacGyver (United States)",
-      "tvg-name": "MacGyver (United States)",
+      "nome": "MacGyver",
+      "tvg-name": "MacGyver",
       "categoria": "Classic",
       "url": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8"
     },
@@ -345,8 +345,8 @@
       "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
     },
     {
-      "nome": "MTV Catfish (United States) BR (720p)",
-      "tvg-name": "MTV Catfish (United States) BR (720p)",
+      "nome": "MTV Catfish BR (720p)",
+      "tvg-name": "MTV Catfish BR (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
     },
@@ -369,8 +369,8 @@
       "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
     },
     {
-      "nome": "MTV Reality (United States) (720p)",
-      "tvg-name": "MTV Reality (United States) (720p)",
+      "nome": "MTV Reality (720p)",
+      "tvg-name": "MTV Reality (720p)",
       "categoria": "Entertainment",
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
     },
@@ -565,12 +565,6 @@
       "tvg-name": "SOU TV (720p)",
       "categoria": "General",
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
-      "nome": "TELE 6 (1080p)",
-      "tvg-name": "TELE 6 (1080p)",
-      "categoria": "General",
-      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -1125,8 +1119,8 @@
       "url": "https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8"
     },
     {
-      "nome": "iCarly (United States)",
-      "tvg-name": "iCarly (United States)",
+      "nome": "iCarly",
+      "tvg-name": "iCarly",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8"
     },
@@ -1173,20 +1167,20 @@
       "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
     },
     {
-      "nome": "MTV Dating (United States)",
-      "tvg-name": "MTV Dating (United States)",
+      "nome": "MTV Dating",
+      "tvg-name": "MTV Dating",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
     },
     {
-      "nome": "NCIS (United States)",
-      "tvg-name": "NCIS (United States)",
+      "nome": "NCIS",
+      "tvg-name": "NCIS",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8"
     },
     {
-      "nome": "Numbers (United States)",
-      "tvg-name": "Numbers (United States)",
+      "nome": "Numbers",
+      "tvg-name": "Numbers",
       "categoria": "Series",
       "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
     },
