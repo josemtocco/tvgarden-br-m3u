@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-21T06:21:35.514784+00:00",
+  "atualizado_em_utc": "2026-11-21T18:53:51.326637+00:00",
   "total_encontrados": 399,
   "total_https": 301,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 87,
+  "total_aprovados": 212,
+  "total_removidos_por_teste": 89,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -567,6 +567,12 @@
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
     },
     {
+      "nome": "TELE 6 (1080p)",
+      "tvg-name": "TELE 6 (1080p)",
+      "categoria": "General",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
+    },
+    {
       "nome": "TV Aldeia (720p)",
       "tvg-name": "TV Aldeia (720p)",
       "categoria": "General",
@@ -585,6 +591,12 @@
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
     },
     {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+    },
+    {
       "nome": "TV BRICS Portuguese (1080p)",
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
@@ -601,18 +613,6 @@
       "tvg-name": "TV Difusao (720p)",
       "categoria": "General",
       "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
-    },
-    {
-      "nome": "TV Guarapari (720p)",
-      "tvg-name": "TV Guarapari (720p)",
-      "categoria": "General",
-      "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
-    },
-    {
-      "nome": "TV Litoral RN (720p)",
-      "tvg-name": "TV Litoral RN (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -999,12 +999,6 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1035,12 +1029,6 @@
       "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
     },
     {
-      "nome": "Angel TV Portuguese (720p)",
-      "tvg-name": "Angel TV Portuguese (720p)",
-      "categoria": "Religious",
-      "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
-    },
-    {
       "nome": "Despertar TV (720p)",
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
@@ -1063,12 +1051,6 @@
       "tvg-name": "Gospel Movie TV (360p)",
       "categoria": "Religious",
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
-    },
-    {
-      "nome": "Plenitude TV (1080p)",
-      "tvg-name": "Plenitude TV (1080p)",
-      "categoria": "Religious",
-      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
       "nome": "Rede Gospel (1080p)",
@@ -1255,6 +1237,12 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "nome": "Boas Novas (1080p)",
+      "tvg-name": "Boas Novas (1080p)",
+      "categoria": "Undefined",
+      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",
