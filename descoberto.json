@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-22T14:20:16.507636+00:00",
+  "atualizado_em_utc": "2026-11-22T23:25:33.192427+00:00",
   "total_encontrados": 399,
   "total_https": 301,
-  "total_aprovados": 212,
-  "total_removidos_por_teste": 89,
+  "total_aprovados": 213,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -549,10 +549,22 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
+      "nome": "SBT Interior (720p)",
+      "tvg-name": "SBT Interior (720p)",
+      "categoria": "General",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+    },
+    {
       "nome": "SOU TV (720p)",
       "tvg-name": "SOU TV (720p)",
       "categoria": "General",
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+    },
+    {
+      "nome": "TELE 6 (1080p)",
+      "tvg-name": "TELE 6 (1080p)",
+      "categoria": "General",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -571,12 +583,6 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
-    },
-    {
-      "nome": "TV Brasil Oeste (720p)",
-      "tvg-name": "TV Brasil Oeste (720p)",
-      "categoria": "General",
-      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -601,6 +607,12 @@
       "tvg-name": "TV Guarapari (720p)",
       "categoria": "General",
       "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
+    },
+    {
+      "nome": "TV Litoral RN (720p)",
+      "tvg-name": "TV Litoral RN (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -1237,12 +1249,6 @@
       "tvg-name": "Amazon Sat (1080p)",
       "categoria": "Undefined",
       "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-    },
-    {
-      "nome": "Boas Novas (1080p)",
-      "tvg-name": "Boas Novas (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
     },
     {
       "nome": "L!ke (1080p)",

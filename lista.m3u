@@ -165,16 +165,18 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" tvg-name="Rede TV! Mais (720p)" group-title="General" ,Rede TV! Mais (720p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" tvg-name="SBT Interior (720p)" group-title="General" ,SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-name="SOU TV (720p)" group-title="General" ,SOU TV (720p)
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" tvg-name="TELE 6 (1080p)" group-title="General" ,TELE 6 (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAldeia.br@SD" tvg-logo="https://i.imgur.com/rsfnv4Z.png" tvg-name="TV Aldeia (720p)" group-title="General" ,TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAliancaCatarinense.br@SD" tvg-logo="https://i.imgur.com/eqmOhtP.png" tvg-name="TV Alianca Catarinense (720p)" group-title="General" ,TV Alianca Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-name="TV Alternativa (410p)" group-title="General" ,TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-logo="https://i.imgur.com/noqGfuy.png" tvg-name="TV Brasil Oeste (720p)" group-title="General" ,TV Brasil Oeste (720p)
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-name="TV BRICS Portuguese (1080p)" group-title="General" ,TV BRICS Portuguese (1080p)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" tvg-name="TV Comunitaria (360p)" group-title="General" ,TV Comunitaria (360p)
@@ -183,6 +185,8 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuarapari.br@SD" tvg-logo="https://i.imgur.com/eDNzwK0.png" tvg-name="TV Guarapari (720p)" group-title="General" ,TV Guarapari (720p)
 https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLitoralRN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-name="TV Litoral RN (720p)" group-title="General" ,TV Litoral RN (720p)
+https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br@SD" tvg-logo="https://i.imgur.com/lgCRX7q.png" tvg-name="TV Mais Marica (1080p)" group-title="General" ,TV Mais Marica (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarajoara.br@SD" tvg-logo="https://i.imgur.com/9d9vBN7.png" tvg-name="TV Marajoara (720p)" group-title="General" ,TV Marajoara (720p)
@@ -395,8 +399,6 @@ https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br@SD" tvg-logo="https://i.imgur.com/7rjCS5i.png" tvg-name="Amazon Sat (1080p)" group-title="Undefined" ,Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-name="Boas Novas (1080p)" group-title="Undefined" ,Boas Novas (1080p)
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Lke.br@SD" tvg-logo="https://i.imgur.com/chHsCzB.png" tvg-name="L!ke (1080p)" group-title="Undefined" ,L!ke (1080p)
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG_1754405659295.png" tvg-name="Pluto TV Historia (United States)" group-title="Undefined" ,Pluto TV Historia (United States)
