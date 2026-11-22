@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-21T18:53:51.326637+00:00",
+  "atualizado_em_utc": "2026-11-22T05:53:36.148694+00:00",
   "total_encontrados": 399,
   "total_https": 301,
-  "total_aprovados": 212,
-  "total_removidos_por_teste": 89,
+  "total_aprovados": 213,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -507,12 +507,6 @@
       "url": "https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8"
     },
     {
-      "nome": "Cultura Fast (720p)",
-      "tvg-name": "Cultura Fast (720p)",
-      "categoria": "General",
-      "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
-    },
-    {
       "nome": "EUTV (720p)",
       "tvg-name": "EUTV (720p)",
       "categoria": "General",
@@ -553,12 +547,6 @@
       "tvg-name": "Rede TV! Mais (720p)",
       "categoria": "General",
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
-    },
-    {
-      "nome": "SBT Interior (720p)",
-      "tvg-name": "SBT Interior (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
     },
     {
       "nome": "SOU TV (720p)",
@@ -613,6 +601,12 @@
       "tvg-name": "TV Difusao (720p)",
       "categoria": "General",
       "url": "https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8"
+    },
+    {
+      "nome": "TV Guarapari (720p)",
+      "tvg-name": "TV Guarapari (720p)",
+      "categoria": "General",
+      "url": "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     },
     {
       "nome": "TV Mais Marica (1080p)",
@@ -999,6 +993,12 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
+      "nome": "TV A Folha (720p)",
+      "tvg-name": "TV A Folha (720p)",
+      "categoria": "News",
+      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+    },
+    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1029,6 +1029,12 @@
       "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
     },
     {
+      "nome": "Angel TV Portuguese (720p)",
+      "tvg-name": "Angel TV Portuguese (720p)",
+      "categoria": "Religious",
+      "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
+    },
+    {
       "nome": "Despertar TV (720p)",
       "tvg-name": "Despertar TV (720p)",
       "categoria": "Religious",
@@ -1051,6 +1057,12 @@
       "tvg-name": "Gospel Movie TV (360p)",
       "categoria": "Religious",
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+    },
+    {
+      "nome": "Plenitude TV (1080p)",
+      "tvg-name": "Plenitude TV (1080p)",
+      "categoria": "Religious",
+      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
       "nome": "Rede Gospel (1080p)",
@@ -1267,12 +1279,6 @@
       "tvg-name": "RedeTV! Parana (1080p)",
       "categoria": "Undefined",
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
-    },
-    {
-      "nome": "SBT Nacional (1080p)",
-      "tvg-name": "SBT Nacional (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
       "nome": "SBT Nova Mutum (818p)",
