@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-22T23:25:33.192427+00:00",
-  "total_encontrados": 399,
-  "total_https": 301,
-  "total_aprovados": 213,
-  "total_removidos_por_teste": 88,
+  "atualizado_em_utc": "2026-11-23T06:42:01.112125+00:00",
+  "total_encontrados": 400,
+  "total_https": 302,
+  "total_aprovados": 212,
+  "total_removidos_por_teste": 90,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -549,22 +549,10 @@
       "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
     },
     {
-      "nome": "SBT Interior (720p)",
-      "tvg-name": "SBT Interior (720p)",
-      "categoria": "General",
-      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
-    },
-    {
       "nome": "SOU TV (720p)",
       "tvg-name": "SOU TV (720p)",
       "categoria": "General",
       "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-    },
-    {
-      "nome": "TELE 6 (1080p)",
-      "tvg-name": "TELE 6 (1080p)",
-      "categoria": "General",
-      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8"
     },
     {
       "nome": "TV Aldeia (720p)",
@@ -583,6 +571,12 @@
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
       "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
+    },
+    {
+      "nome": "TV Brasil Oeste (720p)",
+      "tvg-name": "TV Brasil Oeste (720p)",
+      "categoria": "General",
+      "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     },
     {
       "nome": "TV BRICS Portuguese (1080p)",
@@ -999,16 +993,16 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
       "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sim Cachoeiro (720p)",
+      "tvg-name": "TV Sim Cachoeiro (720p)",
+      "categoria": "News",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
     },
     {
       "nome": "TVideoNews (720p) [Not 24/7]",
@@ -1075,6 +1069,12 @@
       "tvg-name": "RIT TV (1080p)",
       "categoria": "Religious",
       "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+    },
+    {
+      "nome": "TV Maanaim (720p) [Not 24/7]",
+      "tvg-name": "TV Maanaim (720p) [Not 24/7]",
+      "categoria": "Religious",
+      "url": "https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8"
     },
     {
       "nome": "TV Mana Brasil (1080p)",
@@ -1273,12 +1273,6 @@
       "tvg-name": "RedeTV! Parana (1080p)",
       "categoria": "Undefined",
       "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
-    },
-    {
-      "nome": "SBT Nacional (1080p)",
-      "tvg-name": "SBT Nacional (1080p)",
-      "categoria": "Undefined",
-      "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
     },
     {
       "nome": "SBT Nova Mutum (818p)",
