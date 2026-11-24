@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-23T23:37:14.701376+00:00",
-  "total_encontrados": 400,
-  "total_https": 302,
-  "total_aprovados": 215,
-  "total_removidos_por_teste": 87,
+  "atualizado_em_utc": "2026-11-24T09:10:03.475512+00:00",
+  "total_encontrados": 401,
+  "total_https": 303,
+  "total_aprovados": 212,
+  "total_removidos_por_teste": 91,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -33,6 +33,7 @@
     "Entertainment",
     "Entertainment;General",
     "Entertainment;General;Movies;Music",
+    "Entertainment;General;Music;News;Religious",
     "Entertainment;News",
     "Family",
     "General",
@@ -321,12 +322,6 @@
       "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
     },
     {
-      "nome": "Chroma TV (480p)",
-      "tvg-name": "Chroma TV (480p)",
-      "categoria": "Entertainment",
-      "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
-    },
-    {
       "nome": "Conecta Mais TV (720p)",
       "tvg-name": "Conecta Mais TV (720p)",
       "categoria": "Entertainment",
@@ -441,6 +436,12 @@
       "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
     },
     {
+      "nome": "TV CAJUI WEB (720p)",
+      "tvg-name": "TV CAJUI WEB (720p)",
+      "categoria": "Entertainment;General;Music;News;Religious",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8"
+    },
+    {
       "nome": "TV Zoom (720p)",
       "tvg-name": "TV Zoom (720p)",
       "categoria": "Entertainment;News",
@@ -511,12 +512,6 @@
       "tvg-name": "EUTV (720p)",
       "categoria": "General",
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
-    },
-    {
-      "nome": "Fala Litoral (480p)",
-      "tvg-name": "Fala Litoral (480p)",
-      "categoria": "General",
-      "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
     },
     {
       "nome": "O Dia TV (450p)",
@@ -1005,12 +1000,6 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1315,12 +1304,6 @@
       "tvg-name": "TV Cidade Verde Cuiaba",
       "categoria": "Undefined",
       "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
-    },
-    {
-      "nome": "TV Clube (720p)",
-      "tvg-name": "TV Clube (720p)",
-      "categoria": "Undefined",
-      "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
     },
     {
       "nome": "TV Guara (720p) [Not 24/7]",
