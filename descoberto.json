@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-25T07:45:39.799441+00:00",
+  "atualizado_em_utc": "2026-11-25T21:23:57.655732+00:00",
   "total_encontrados": 401,
   "total_https": 303,
-  "total_aprovados": 214,
-  "total_removidos_por_teste": 89,
+  "total_aprovados": 217,
+  "total_removidos_por_teste": 86,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -22,6 +22,7 @@
     "Comedy;Series",
     "Cooking",
     "Cooking;Lifestyle",
+    "Culture",
     "Culture;Education",
     "Culture;Education;Public",
     "Culture;News",
@@ -175,6 +176,12 @@
       "tvg-name": "Pluto TV KFOOD",
       "categoria": "Cooking;Lifestyle",
       "url": "https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8"
+    },
+    {
+      "nome": "TV Life America (720p)",
+      "tvg-name": "TV Life America (720p)",
+      "categoria": "Culture",
+      "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
     },
     {
       "nome": "Bem Mais TV (1080p)",
@@ -655,6 +662,12 @@
       "tvg-name": "TVCOM Maceio (480p)",
       "categoria": "General",
       "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
+    },
+    {
+      "nome": "TVitape (720p)",
+      "tvg-name": "TVitape (720p)",
+      "categoria": "General",
+      "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
     },
     {
       "nome": "TVLatinaSat (720p)",
@@ -1327,6 +1340,12 @@
       "tvg-name": "TV Pantanal MS (360p) [Not 24/7]",
       "categoria": "Undefined",
       "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+    },
+    {
+      "nome": "TV Sul Bahia (320p)",
+      "tvg-name": "TV Sul Bahia (320p)",
+      "categoria": "Undefined",
+      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     },
     {
       "nome": "TV Vila Real (720p)",
