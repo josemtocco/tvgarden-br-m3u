@@ -1,11 +1,11 @@
 {
   "fonte": "https://tvgarden.world/tv/br",
   "fonte_dados": "https://iptv-org.github.io/iptv/countries/br.m3u",
-  "atualizado_em_utc": "2026-11-27T20:53:57.136249+00:00",
+  "atualizado_em_utc": "2026-11-28T07:01:35.635987+00:00",
   "total_encontrados": 401,
-  "total_https": 303,
-  "total_aprovados": 217,
-  "total_removidos_por_teste": 86,
+  "total_https": 304,
+  "total_aprovados": 216,
+  "total_removidos_por_teste": 88,
   "arquivos_gerados_na_raiz": [
     "lista.m3u",
     "descoberto.json",
@@ -14,6 +14,7 @@
   "categorias": [
     "Animation",
     "Animation;Comedy",
+    "Animation;Kids",
     "Animation;Kids;Religious",
     "Auto;Documentary",
     "Classic",
@@ -33,7 +34,6 @@
     "Entertainment",
     "Entertainment;General",
     "Entertainment;General;Movies;Music",
-    "Entertainment;General;Music;News;Religious",
     "Entertainment;News",
     "Family",
     "General",
@@ -110,6 +110,12 @@
       "tvg-name": "South Park: Colecao Stan",
       "categoria": "Animation;Comedy",
       "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
+    },
+    {
+      "nome": "Cartoon Network Latin America Brazil",
+      "tvg-name": "Cartoon Network Latin America Brazil",
+      "categoria": "Animation;Kids",
+      "url": "https://cdn-1.netplaygo.com.br/CARTOON_NETWORK/tracks-v1a1/mono.m3u8"
     },
     {
       "nome": "Kuriakos Kids (1080p)",
@@ -388,12 +394,6 @@
       "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8"
     },
     {
-      "nome": "Petlovers TV (720p)",
-      "tvg-name": "Petlovers TV (720p)",
-      "categoria": "Entertainment",
-      "url": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
-    },
-    {
       "nome": "Pluto TV Canal UOL (720p)",
       "tvg-name": "Pluto TV Canal UOL (720p)",
       "categoria": "Entertainment",
@@ -440,12 +440,6 @@
       "tvg-name": "+MaisUm (720p)",
       "categoria": "Entertainment;General;Movies;Music",
       "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
-    },
-    {
-      "nome": "TV CAJUI WEB (720p)",
-      "tvg-name": "TV CAJUI WEB (720p)",
-      "categoria": "Entertainment;General;Music;News;Religious",
-      "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8"
     },
     {
       "nome": "TV Zoom (720p)",
@@ -592,12 +586,6 @@
       "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
     },
     {
-      "nome": "TV Alianca Catarinense (720p)",
-      "tvg-name": "TV Alianca Catarinense (720p)",
-      "categoria": "General",
-      "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
-    },
-    {
       "nome": "TV Alternativa (410p)",
       "tvg-name": "TV Alternativa (410p)",
       "categoria": "General",
@@ -614,6 +602,12 @@
       "tvg-name": "TV BRICS Portuguese (1080p)",
       "categoria": "General",
       "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
+    },
+    {
+      "nome": "TV CAJUI WEB (720p)",
+      "tvg-name": "TV CAJUI WEB (720p)",
+      "categoria": "General",
+      "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8"
     },
     {
       "nome": "TV Comunitaria (360p)",
@@ -1018,12 +1012,6 @@
       "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
     },
     {
-      "nome": "TV A Folha (720p)",
-      "tvg-name": "TV A Folha (720p)",
-      "categoria": "News",
-      "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-    },
-    {
       "nome": "TV Brusque (720p)",
       "tvg-name": "TV Brusque (720p)",
       "categoria": "News",
@@ -1088,6 +1076,12 @@
       "tvg-name": "Gospel Movie TV (360p)",
       "categoria": "Religious",
       "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+    },
+    {
+      "nome": "Plenitude TV (1080p)",
+      "tvg-name": "Plenitude TV (1080p)",
+      "categoria": "Religious",
+      "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
     },
     {
       "nome": "Rede Gospel (1080p)",
@@ -1348,10 +1342,10 @@
       "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
     },
     {
-      "nome": "TV Sul Bahia (320p)",
-      "tvg-name": "TV Sul Bahia (320p)",
+      "nome": "TV Vila Real (720p)",
+      "tvg-name": "TV Vila Real (720p)",
       "categoria": "Undefined",
-      "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+      "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
     }
   ]
 }
